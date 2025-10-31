@@ -14,7 +14,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] Example item
+* [ ] p042: line of asterisks at bottom, mid-poem. Is it a `<tb>`? Asked in forum.
 
 ### Project manager notes ###
 
@@ -29,6 +29,8 @@ Index pages split for proofing. Reference pngs provided.
 Images from [TIA](https://archive.org/details/storyofgreatlake00chanuoft).
 
 ### Forum notes ###
+
+Nothing of note.
 
 ### General notes ###
 
