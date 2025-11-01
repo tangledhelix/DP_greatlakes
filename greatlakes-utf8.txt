@@ -1637,9 +1637,6 @@ the same time most frightful cascade" which he
 saw for the first time on this December day in
 1678.[1]
 
-While Hennepin and his party were exploring
-the Niagara, La Motte, the leader of the expedi-*
-
 [Footnote 1: Lake Ontario is 326 ft. lower than Lake Erie and about 30 miles distant.
 For 18 miles the Niagara River flows peacefully along, then suddenly the channel
 narrows and the waters rush down 53 ft. in half a mile, and then drop over
@@ -1649,6 +1646,9 @@ whose nearly perpendicular walls rise 200 ft. on either side. Down its steep
 slope the imprisoned waters dash in a succession of boiling rapids, white with
 foam, forming in one loop of the channel a curious whirlpool. Issuing from
 this gorge at Lewiston, the river flows tranquilly on to Lake Ontario.]
+
+While Hennepin and his party were exploring
+the Niagara, La Motte, the leader of the expedi-*
 -----File: p054.png--------------------------------------------------------
 *tion, had selected a site for a fortified house about
 two leagues above the mouth of the river and not
@@ -3648,7 +3648,7 @@ in the general direction of the Indian camp.
 Their first thought was that the village was on
 fire, but the mass of flame seemed to be moving
 and to come nearer. A huge fire-float, made of
-four bateaux[1] filled with fagots, birch bark, and
+four bateaux[2] filled with fagots, birch bark, and
 tar, appeared on the water, drifting down to set
 fire to the schooners anchored opposite the fort.
 The vessels were anchored by two cables, and as
@@ -3658,7 +3658,7 @@ while the raft floated harmlessly by, lighting up
 the fort and the dark shores till it burned itself
 down to the water's edge.
 
-[Footnote 1: <i>Bateau</i>, the French word for boat, usually applied to a flat-bottomed boat
+[Footnote 2: <i>Bateau</i>, the French word for boat, usually applied to a flat-bottomed boat
 with pointed ends.]
 -----File: p128.png--------------------------------------------------------
 
@@ -8421,11 +8421,9 @@ which had put them in their leading positions.
 Douglas was forty-five years old, Lincoln four
 years older. Born in Brandon, Vermont, Stephen
 Arnold Douglas was the son of a young physician,
-whose father was Benajah Douglass,[1] a New York
+whose father was Benajah Douglass,[3] a New York
 pioneer who had moved to Vermont and there
 been prominent in local politics, and whose
-
-[Footnote 1: The elder Douglass spelled his name with a double <i>s</i>.]
 -----File: p303.png--------------------------------------------------------
 mother was Martha Arnold, a descendant of
 Governor William Arnold of Rhode Island.
@@ -8452,6 +8450,8 @@ After two years with this man and with
 another cabinet-maker, he gave up the trade and
 returned to the home of his mother, enrolling
 himself at Brandon Academy.
+
+[Footnote 3: The elder Douglass spelled his name with a double <i>s</i>.]
 
 The marriage of his sister and later of his
 -----File: p304.png--------------------------------------------------------
