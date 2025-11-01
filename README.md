@@ -15,6 +15,17 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [ ] p042: line of asterisks at bottom, mid-poem. Is it a `<tb>`? Asked in forum.
+* [ ] f008: sign-off formatting on Preface
+* [ ] f009-f010: ToC - format as tables (probably 3 tables)
+* [ ] f011: list of illos - format as tables (probably 2 tables)
+* [ ] p042-p043: poetry rewrap (and see above note)
+* [ ] p134: chronology (probably a table)
+* [ ] p235-p236: table
+* [ ] p291: poetry rewrap
+* [ ] p336: table
+* [ ] p337: 2 tables
+* [ ] p393-p398: index
+* [ ] p399-p402: advertisements
 
 ### Project manager notes ###
 
