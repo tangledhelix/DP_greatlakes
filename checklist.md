@@ -70,9 +70,9 @@ Instructions for `/* */` and `/# #/` blocks:
   * Check consistent indentation of block text
   * Apply specific [margin values](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins) if desired
 * [x] `Search → Find Proofer Comments`. Resolve all proofer's notes.
-* [ ] `Tools → Unmatched → Block Markup`
-* [ ] `Tools → Unmatched → DP Markup`.
-* [ ] Search `(</i>)([!?;:])` & replace `$2$1` to find punct that should move inside quotes
+* [x] `Tools → Unmatched → Block Markup`
+* [x] `Tools → Unmatched → DP Markup`.
+* [x] Search `(</i>)([!?;:])` & replace `$2$1` to find punct that should move inside quotes
 * [ ] Use `Tools → Unmatched → Brackets` to check each type of bracket and markup.
   * Do not omit the lowly parenthesis, often mis-scanned as curly-brace.
 * [ ] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
