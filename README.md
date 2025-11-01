@@ -36,6 +36,25 @@ Nothing of note.
 
 ### Illustrations ###
 
+* [ ] f002: publisher logo
+* [ ] f004: full-page illo
+* [ ] p008a: full-page photo
+* [ ] p012: line drawing (map)
+* [ ] p052: full-page illo
+* [ ] p076a: full-page illo
+* [ ] p104a: full-page illo
+* [ ] p202: line drawing (map)
+* [ ] p204a: full-page illo
+* [ ] p223: line drawing (map)
+* [ ] p232: line drawing (map)
+* [ ] p256a: full-page illo
+* [ ] p278a: full-page illo
+* [ ] p284: line drawing (map)
+* [ ] p348a: full-page illo
+* [ ] p352a: full-page illo
+* [ ] p360a: full-page illo
+* [ ] p370a: full-page illo
+
 ### Proofer's notes ###
 
 ### Joined hyphenated words ###

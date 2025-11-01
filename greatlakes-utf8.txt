@@ -1416,7 +1416,7 @@ live the King!"
 
 As the last words fell from his lips the French-*
 -----File: p045.png--------------------------------------------------------
-men responded with a loud shout, "Vive le Roi!
+*men responded with a loud shout, "Vive le Roi!
 Long live the King!"; guns were fired, and the
 Indians shouted and yelped with delight. "The
 astonishment and delight of those people,' says
@@ -5883,7 +5883,7 @@ The squads of soldiers who had started in the
 chase were scattered without any regular order
 along half a mile of the valley. When the fore-*
 -----File: p209.png--------------------------------------------------------
-most of the pursuers came upon Black Hawk and
+*most of the pursuers came upon Black Hawk and
 his men hidden behind a growth of brush, the
 savages dashed out upon them with wild war-whoops.
 The soldiers thought that eight hundred
@@ -11044,7 +11044,7 @@ Buffalo, founded, 220, 221;
 */
 -----File: p393_2.png------------------------------------------------------
 /*
-254-256, 260;
+  254-256, 260;
   in 1840, 266-269;
   lumber market, 345, 346;
   first steamboat launched at, 360;
@@ -11534,7 +11534,7 @@ Railroads, Mohawk and Hudson, 238, 240;
 */
 -----File: p397_2.png------------------------------------------------------
 /*
-284, 287, 288;
+  284, 287, 288;
   Kalamazoo and Erie, 285, 286;
   Michigan Southern, 285;
   Cleveland, Columbus, and Cincinnati, 288-291;

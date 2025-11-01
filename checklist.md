@@ -21,8 +21,8 @@ cd ~/dp/util
 * [x] `File → Project → Configure Page Labels...`. Check for roman numerals and unnumbered pages. Go to end of book to check page numbers line up.
 
 ### Sequential Inspection of Text
-* [ ] Turn on `Auto Img`
-* [ ] Check for chapter/section spacing (2,4). Regex: `(^$\n^$\n^$\n^$\n|^$\n^$\n)` and use "Highlight All".
+* [x] Turn on `Auto Img`
+* [x] Check for chapter/section spacing (2,4). Regex: `(^$\n^$\n^$\n^$\n|^$\n^$\n)` and use "Highlight All".
 
 Check for:
 
@@ -305,6 +305,7 @@ References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p134
 * [ ] If `A.M.` `P.M.` or similar abbreviations were used and have spaces, insert `&nbsp;` to avoid undesirable mid-abbreviation line wraps.
 * [ ] If superscripts were used, convert to `<sup>`
 * [ ] Semantic fixup for italics
+  * NOTE: Try the Regex Library tool and make a custom italic_semantic.json file
   * (Note: `lang="xx"` can be used on **any** HTML tag including `cite`, `em`, ...)
   * Search `<i>((.|\n)+?)</i>`
   * Replace (emphasis) `<em>\1</em>`
