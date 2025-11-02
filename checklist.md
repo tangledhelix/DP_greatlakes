@@ -94,6 +94,11 @@ Instructions for `/* */` and `/# #/` blocks:
   * `Re-run`, `Move FNs to Paragraphs`
 * [x] Search for blocks: regex (no case match) `^/[#*$PCRFLXI]` and move footnotes outside of blocks as appropriate
 
+### Fixup Illustration locations
+* [x] Use `Tools → Illustration Fixup` to move illos between paragraphs.
+  * Note the "Preserve Illo's Page Number" checkbox - using this will optimize for the page number of the illo and may dislocate the page numbering of text. Probably better to not use it for midparagraph images?
+  * Choose an illo from the list and use the Move Up/Down buttons to relocate it.
+
 ### Remove Visible Page Breaks
 * [ ] Run `Tools → Page Separator Fixup` to remove visible page separators
 
@@ -166,9 +171,6 @@ Instructions for `/* */` and `/# #/` blocks:
 * [ ] Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes). Step through sidenotes with: Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.
   * Compare to page image. Move note above paragraph if feasible.
   * Otherwise, position it above the sentence to which it applies, with blank lines to prevent rewrapping if you decide that is best.
-
-### Fixup Illustrations
-* [ ] Search for `[Illus` (no regex) and ensure illustrations are between paragraphs.
 
 ### Fix Poetry Line Numbers
 * [ ] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.

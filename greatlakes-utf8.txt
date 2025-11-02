@@ -428,14 +428,6 @@ These figures give some idea of the importance
 of the Great Lakes in the economic development
 of the United States. Three hundred years have
 -----File: p008a.png-------------------------------------------------------
-
-[Illustration:
-
-/*
-Copyright, 1904, by Detroit Photographic Co.
-*/
-
-<sc>The "Soo" Canal</sc>]
 -----File: p008b.png-------------------------------------------------------
 -----File: p009.png--------------------------------------------------------
 seen this region converted from a wilderness
@@ -447,6 +439,14 @@ occupied by the red man and a few small villages
 and trading stations of the whites. It is indeed
 wonderful what changes a century has witnessed.
 -----File: p010.png--------------------------------------------------------
+
+[Illustration:
+
+/*
+Copyright, 1904, by Detroit Photographic Co.
+*/
+
+<sc>The "Soo" Canal</sc>]
 
 
 
@@ -1615,8 +1615,6 @@ waters; and, at length, there burst upon their
 sight the falls of Niagara, or the "Thunder of
 Waters," as the Indians called it,--that "vast
 -----File: p052a.png-------------------------------------------------------
-
-[Illustration: <sc>Niagara Falls as sketched by Hennepin</sc>]
 -----File: p052b.png-------------------------------------------------------
 -----File: p053.png--------------------------------------------------------
 and prodigious cadence of water which falls down
@@ -1646,6 +1644,8 @@ whose nearly perpendicular walls rise 200 ft. on either side. Down its steep
 slope the imprisoned waters dash in a succession of boiling rapids, white with
 foam, forming in one loop of the channel a curious whirlpool. Issuing from
 this gorge at Lewiston, the river flows tranquilly on to Lake Ontario.]
+
+[Illustration: <sc>Niagara Falls as sketched by Hennepin</sc>]
 
 While Hennepin and his party were exploring
 the Niagara, La Motte, the leader of the expedi-*
@@ -2271,8 +2271,6 @@ red stone, well polished, and the stem of
 a strong reed or cane, trimmed with yellow, white,
 and green feathers. In shape it resembled a huge
 -----File: p076a.png-------------------------------------------------------
-
-[Illustration: <sc>La Barre and Grangula</sc>]
 -----File: p076b.png-------------------------------------------------------
 -----File: p077.png--------------------------------------------------------
 hammer more than anything else. The Indians
@@ -2283,6 +2281,8 @@ among them as a flaming crime that would
 draw down mischief upon their nations. About
 this calumet were piled the wampum belts to be
 presented by the speakers.
+
+[Illustration: <sc>La Barre and Grangula</sc>]
 
 La Barre opened the council, speaking boldly
 and with apparent assurance. He made no allusion
@@ -3016,16 +3016,6 @@ halfway between Cleveland and Detroit. The
 energy of the French was in part due to the exhibition
 of an intention of the English to enter
 -----File: p104a.png-------------------------------------------------------
-
-[Illustration:
-
-/*
-<sc>A View</sc> of <sc>Niagara Fort</sc>,
-<i>taken by Sir William Johnson</i>,
-on the 25^{th} of July 1759.
-<i>Drawn on the Spot in 1758.</i>
-*/
-]
 -----File: p104b.png-------------------------------------------------------
 -----File: p105.png--------------------------------------------------------
 the great interior basin; but the French activity
@@ -3045,6 +3035,16 @@ an attack upon it for several years. In
 1758 the English captured Fort Frontenac, and
 the next summer made a determined attack on
 Niagara.
+
+[Illustration:
+
+/*
+<sc>A View</sc> of <sc>Niagara Fort</sc>,
+<i>taken by Sir William Johnson</i>,
+on the 25^{th} of July 1759.
+<i>Drawn on the Spot in 1758.</i>
+*/
+]
 
 The fort at Niagara was now commanded by a
 French officer and engineer, Captain Pouchot;
@@ -5750,6 +5750,8 @@ had been involved in every tribal skirmish that
 had taken place, and he had played a prominent
 part in the white men's wars.
 
+[Illustration: <sc>Black Hawk</sc>]
+
 In the unsettled period before the War of 1812,
 Black Hawk had gathered about him a group of
 two hundred young warriors, who won for themselves
@@ -5757,8 +5759,6 @@ in the war the name of the "British Band,"
 from their support of the British troops. He
 had fought at the battle of Frenchtown on the
 -----File: p204a.png-------------------------------------------------------
-
-[Illustration: <sc>Black Hawk</sc>]
 -----File: p204b.png-------------------------------------------------------
 -----File: p205.png--------------------------------------------------------
 River Raisin, at the battle of the Thames under
@@ -7140,6 +7140,8 @@ York in one hour and thirty minutes. New
 York responded, sending the message back to
 Buffalo in the same time.
 
+[Illustration: <sc>Through the Locks at Lockport</sc>]
+
 At almost every town and village along the
 route the <i>Seneca Chief</i> was met with exercises,
 dinners, triumphal arches, and illuminations. So
@@ -7148,8 +7150,6 @@ took them six days to make the journey to
 Albany. Two or three of the celebrations are of
 especial interest. At Lockport the boat was
 -----File: p256a.png-------------------------------------------------------
-
-[Illustration: <sc>Through the Locks at Lockport</sc>]
 -----File: p256b.png-------------------------------------------------------
 -----File: p257.png--------------------------------------------------------
 greeted by a salute of guns which had been captured
@@ -7742,6 +7742,8 @@ minutes. This was maintained by subscription
 among the inhabitants, and no fee was therefore
 charged for crossing.
 
+[Illustration: <sc>Chicago in 1831</sc>]
+
 Margaret Fuller spent the summer of 1843 on
 the lakes, and left a charming account of her
 impressions. Chicago she found rather commercial,
@@ -7755,8 +7757,6 @@ the time, as the life blood rushed from east to
 west and back again. Yet, even in this business
 place, she saw for the first time in her drives
 -----File: p278a.png-------------------------------------------------------
-
-[Illustration: <sc>Chicago in 1831</sc>]
 -----File: p278b.png-------------------------------------------------------
 -----File: p279.png--------------------------------------------------------
 along the lake shore the beautiful prairie flowers
@@ -9727,14 +9727,14 @@ still a most important factor in the contribution
 of the lake region to the wealth of the
 country.
 
+[Illustration: <sc>An Early Lake Superior Copper Mine</sc>]
+
 The presence of iron ore in the Lake Superior
 country was hardly suspected until after 1840.
 All companies were formed to mine copper, silver,
 or gold. The state geologist made no mention
 of iron in his first report in 1840, but in Septem-*
 -----File: p348a.png-------------------------------------------------------
-
-[Illustration: <sc>An Early Lake Superior Copper Mine</sc>]
 -----File: p348b.png-------------------------------------------------------
 -----File: p349.png--------------------------------------------------------
 *ber, 1844, a party of government surveyors running
@@ -9839,6 +9839,14 @@ he endeavored to enlist in this venture were
 sceptical, so Mr. Tower had to proceed single-handed
 in his task.
 
+[Illustration:
+
+/*
+From Stereograph, copyright, 1906, by Underwood & Underwood, New York.
+*/
+
+<sc>Iron Ore at a Lake Superior Port</sc>]
+
 It is little wonder that men doubted the
 practicability of Mr. Tower's schemes; it is the
 more worthy of admiration that he dared to
@@ -9850,14 +9858,6 @@ region that had no intermediate connections with
 even the outskirts of civilization seemed an
 impossible task. The country was densely
 -----File: p352a.png-------------------------------------------------------
-
-[Illustration:
-
-/*
-From Stereograph, copyright, 1906, by Underwood & Underwood, New York.
-*/
-
-<sc>Iron Ore at a Lake Superior Port</sc>]
 -----File: p352b.png-------------------------------------------------------
 -----File: p353.png--------------------------------------------------------
 wooded, with only very small streams and impassable
@@ -10063,16 +10063,6 @@ but often taking thirteen days to do it. For
 four years she held a monopoly on the lakes
 as the solitary steam-propelled craft, and then one
 -----File: p360a.png-------------------------------------------------------
-
-[Illustration:
-
-/*
-Copyright, 1905, by Detroit Publishing Co.
-*/
-
-<sc>The Old and the New</sc>
-
-General Cass's Canoe and a Modern Freight Steamer]
 -----File: p360b.png-------------------------------------------------------
 -----File: p361.png--------------------------------------------------------
 stormy night in October she went ashore after riding
@@ -10088,6 +10078,16 @@ of affairs from that told of by those who spent
 that fearful night on the little vessel hoping for
 daylight to come before she was knocked to
 pieces.
+
+[Illustration:
+
+/*
+Copyright, 1905, by Detroit Publishing Co.
+*/
+
+<sc>The Old and the New</sc>
+
+General Cass's Canoe and a Modern Freight Steamer]
 
 The steamboat did not disappear from the
 lakes, as the journal had feared it would, but in
@@ -10353,14 +10353,6 @@ were constantly washed by the waves. These
 boats were designed, as are all lake boats, to have
 the greatest possible empty space for cargo, a
 -----File: p370a.png-------------------------------------------------------
-
-[Illustration:
-
-/*
-Copyright, 1902, by Detroit Photographic Co.
-*/
-
-<sc>Grain Elevator and Lumber Jam</sc>]
 -----File: p370b.png-------------------------------------------------------
 -----File: p371.png--------------------------------------------------------
 condition made possible by the fact that in their
@@ -10374,6 +10366,14 @@ unique and picturesque, but not so successful as
 the usual style of freighters. Moreover, they
 have reached their maximum size and cannot be
 improved or enlarged without change of shape.
+
+[Illustration:
+
+/*
+Copyright, 1902, by Detroit Photographic Co.
+*/
+
+<sc>Grain Elevator and Lumber Jam</sc>]
 
 The passenger steamers of the lakes are models
 of comfort, built more and more on the style, and
