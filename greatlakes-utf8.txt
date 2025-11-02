@@ -3,14 +3,16 @@
 
 
 
+/F
 THE STORY OF THE GREAT LAKES
+F/
 
 
 
 
 [Illustration]
 
-/*
+/F
 THE MACMILLAN COMPANY
 NEW YORK · BOSTON · CHICAGO
 ATLANTA · SAN FRANCISCO
@@ -21,14 +23,14 @@ MELBOURNE
 
 THE MACMILLAN CO. OF CANADA, <sc>Ltd.</sc>
 TORONTO
-*/
+F/
 
 [Illustration]
 
 
 
 
-/*
+/F
 THE STORY OF THE
 GREAT LAKES
 
@@ -51,12 +53,12 @@ THE MACMILLAN COMPANY
 1909
 
 <i>All rights reserved</i>
-*/
+F/
 
 
 
 
-/*
+/F
 <sc>Copyright, 1909,
 By</sc> THE MACMILLAN COMPANY.
 
@@ -66,7 +68,7 @@ Set up and electrotyped. Published March, 1909.
 <i>Norwood Press
 J. S. Cushing Co.--Berwick & Smith Co.
 Norwood, Mass., U.S.A.</i>
-*/
+F/
 
 
 
@@ -111,7 +113,7 @@ November, 1908.
 CONTENTS
 
 
-/*
+/X
 PART I
 
 <sc>Discovery and Exploration</sc>
@@ -186,7 +188,7 @@ XXVII. The Development of the City      374
 <sc>A Brief List of Books</sc>      385
 
 <sc>Index</sc>      393
-*/
+X/
 
 
 
@@ -194,7 +196,7 @@ XXVII. The Development of the City      374
 MAPS AND ILLUSTRATIONS
 
 
-/*
+/X
 MAPS
       PAGE
 
@@ -235,7 +237,7 @@ The Old and the New, General Cass's Canoe
 and a Modern Freight Steamer      "      360
 
 Grain Elevator and Lumber Jam      "      370
-*/
+X/
 
 
 
