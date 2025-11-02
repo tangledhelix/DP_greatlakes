@@ -100,7 +100,7 @@ Instructions for `/* */` and `/# #/` blocks:
   * Choose an illo from the list and use the Move Up/Down buttons to relocate it.
 
 ### Remove Visible Page Breaks
-* [ ] Run `Tools → Page Separator Fixup` to remove visible page separators
+* [x] Run `Tools → Page Separator Fixup` to remove visible page separators
 
 ### Format Front Matter
 * [ ] Format the title page, preserving as much of the original material as possible. Protect in `/X...X/` (no rewrap, no indent) or `/F...F/` (the same, except that it will be centered in the html version).

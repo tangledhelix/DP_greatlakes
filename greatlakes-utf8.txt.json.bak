@@ -1,6 +1,6 @@
 {
-  "md5checksum": "87e7c2f717bcb4a3994237129a0cfaff",
-  "insertpos": "1638.0",
+  "md5checksum": "b04b7f45647731ed799f359e0987a340",
+  "insertpos": "10370.0",
   "insertpospeer": "11942.0",
   "pagedetails": {
     "f001": {
@@ -562,13 +562,13 @@
       "label": ""
     },
     "p076b": {
-      "index": "2276.0",
+      "index": "2274.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "p077": {
-      "index": "2277.0",
+      "index": "2275.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 77"
@@ -742,13 +742,13 @@
       "label": ""
     },
     "p104b": {
-      "index": "3029.0",
+      "index": "3019.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "p105": {
-      "index": "3030.0",
+      "index": "3020.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 105"
@@ -1348,7 +1348,7 @@
       "label": "Pg 204"
     },
     "p204a": {
-      "index": "5759.0",
+      "index": "5761.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
@@ -1672,7 +1672,7 @@
       "label": "Pg 256"
     },
     "p256a": {
-      "index": "7150.0",
+      "index": "7152.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
@@ -1816,7 +1816,7 @@
       "label": "Pg 278"
     },
     "p278a": {
-      "index": "7757.0",
+      "index": "7759.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
@@ -2248,7 +2248,7 @@
       "label": "Pg 348"
     },
     "p348a": {
-      "index": "9735.0",
+      "index": "9737.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
@@ -2284,7 +2284,7 @@
       "label": "Pg 352"
     },
     "p352a": {
-      "index": "9852.0",
+      "index": "9860.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
@@ -2350,13 +2350,13 @@
       "label": ""
     },
     "p360b": {
-      "index": "10076.0",
+      "index": "10066.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "p361": {
-      "index": "10077.0",
+      "index": "10067.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 361"
@@ -2422,13 +2422,13 @@
       "label": ""
     },
     "p370b": {
-      "index": "10364.0",
+      "index": "10356.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "p371": {
-      "index": "10365.0",
+      "index": "10357.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 371"
