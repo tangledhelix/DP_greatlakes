@@ -15,6 +15,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [ ] p042: line of asterisks at bottom, mid-poem. Is it a `<tb>`? Asked in forum.
+    * Response in forum: “It usually means that something has been left out of the verse. See [here][1] or [here][2], for example, both of which indicate six lines have been omitted from our book.”
 * [ ] f008: sign-off formatting on Preface
 * [ ] f009-f010: ToC - format as tables (probably 3 tables)
 * [ ] f011: list of illos - format as tables (probably 2 tables)
@@ -87,3 +88,7 @@ The iPhone/iPad simulators can't use `file://` URLs. Start a local web server wi
 ### Ebook review ###
 
 ### Smooth Reading ###
+
+
+[1]: https://hymnary.org/hymn/NEH1985/79
+[2]: https://play.hymnswithoutwords.com/the-royal-banners-forward-go/
