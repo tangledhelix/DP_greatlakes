@@ -143,7 +143,7 @@ Instructions for `/* */` and `/# #/` blocks:
 * [x] `Tools → Regex Library`. Run my custom `misc_checks.json`.
 
 ### Apply Bookloupe
-* [ ] `Tools → Bookloupe`.
+* [x] `Tools → Bookloupe`.
 
 ### Apply Spellcheck
 * [ ] Use `Tools → Spelling`. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
