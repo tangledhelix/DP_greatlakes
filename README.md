@@ -27,6 +27,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] p337: 2 tables
 * [ ] p393-p398: index
 * [ ] p399-p402: advertisements
+* [ ] There's a co-author; ensure it's in the upload metadata
 
 ### Project manager notes ###
 
@@ -74,6 +75,8 @@ Nothing of note.
 ### Spellcheck ###
 
 ### Transcriber's notes ###
+
+p. 39: changed “Groseilliers” to “Groseillers” (Radisson and Groseillers)
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
