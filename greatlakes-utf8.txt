@@ -121,17 +121,17 @@ CHAPTER      PAGE
 
 I. The Great Lakes      3
 
-II. Champlain on the Great Lakes, 1615-1616      10
+II. Champlain on the Great Lakes, 1615–1616      10
 
-III. The Jesuit Mission to the Hurons, 1626-1650      25
+III. The Jesuit Mission to the Hurons, 1626–1650      25
 
 IV. The Pageant of Saint Lusson, 1671      39
 
-V. The Building of the <i>Griffon</i>, 1678-1679      49
+V. The Building of the <i>Griffon</i>, 1678–1679      49
 
 VI. La Salle on the Great Lakes, 1679       61
 
-VII. A Hapless French Governor, 1682-1684      73
+VII. A Hapless French Governor, 1682–1684      73
 
 
 PART II
@@ -142,9 +142,9 @@ VIII. The Founding of Detroit, 1701      87
 
 IX. Niagara and the Loss of Canada, 1759      101
 
-X. The Conspiracy of Pontiac, 1763-1764      113
+X. The Conspiracy of Pontiac, 1763–1764      113
 
-XI. The Adventures of a Trader, 1761-1764      135
+XI. The Adventures of a Trader, 1761–1764      135
 
 XII. Wayne’s Indian Campaign, 1794      151
 
@@ -152,7 +152,7 @@ XIII. The Great Lakes in the War of 1812      165
 
 XIV. The Conquest of Lake Erie, 1813      179
 
-XV. General Lewis Cass and Reorganization 1813-1832      191
+XV. General Lewis Cass and Reorganization 1813–1832      191
 
 XVI. The Black Hawk War, 1832      201
 
@@ -161,20 +161,20 @@ PART III
 
 <sc>Occupation and Development</sc>
 
-XVII. Gateways of the Great Lakes, 1600-1900      217
+XVII. Gateways of the Great Lakes, 1600–1900      217
 
-XVIII. The Story of a Road, 1600-1900      228
+XVIII. The Story of a Road, 1600–1900      228
 
-XIX. Before and after the Turnpike, 1796-1811      242
+XIX. Before and after the Turnpike, 1796–1811      242
 
 XX. The Erie Canal, 1825      251
 
 XXI. The Great Lakes in 1840      266
 
 XXII. The Coming of the Railroad to Lake Erie,
-1836-1853      283
+1836–1853      283
 
-XXIII. Lincoln and Douglas in Chicago, 1858-1861      299
+XXIII. Lincoln and Douglas in Chicago, 1858–1861      299
 
 XXIV. The Great Lakes in the Civil War, 1864      317
 
@@ -6991,7 +6991,7 @@ their western journeys by canal-boat, and the
 canal became a thoroughfare of travel as well as
 of trade. That bright and interesting raconteur,
 Mrs. Anne Royall, went west by this route in
-1827-1828, and left a vivid account of the boats
+1827–1828, and left a vivid account of the boats
 and their method of locomotion. The canal she
 describes as having a neat railing outside the tow-path,
 painted white and about four feet high.
@@ -7115,7 +7115,7 @@ clearing away the forests and building villages,
 towns, and cities with amazing rapidity. The
 common phrase of gazetteers of that day about
 cities like Toledo, Michigan City, Chicago, and
-Milwaukee is that in 1830-1834 this place was
+Milwaukee is that in 1830–1834 this place was
 “dense forest,” or “contained a solitary family,”
 or “was scarcely known,” but now in 1840 it has
 from two to three or four thousand inhabitants,
@@ -7351,7 +7351,7 @@ twelve hours between daylight and dark, a wagon
 left the city for the interior every five minutes.
 
 The pioneers who had started out from Detroit
-in 1832-1834 to found Chicago and the other
+in 1832–1834 to found Chicago and the other
 towns beyond, had to go in primitive fashion by
 mail-coach, by flatboats with Indian guides, by
 schooner, or whatever conveyance they could get
@@ -10304,7 +10304,7 @@ A BRIEF LIST OF BOOKS
 
 There is no important general work covering the entire field.
 The best single book is Charles Moore’s <i>The Northwest under
-Three Flags, 1635-1796</i>. B. A. Hinsdale’s <i>Old Northwest</i>
+Three Flags, 1635–1796</i>. B. A. Hinsdale’s <i>Old Northwest</i>
 (2 vols.) deals with this region, but with especial emphasis on
 the geographical and political phases. Francis Parkman treats
 of French and English occupation in his <i>Series of Historical
@@ -10312,14 +10312,14 @@ Narratives, France and England in North America</i>, the nine volumes
 of which will be cited under their individual names.
 Besides his <i>Narrative and Critical History of America</i> in eight
 volumes, Justin Winsor has three books on the history of this
-region: <i>Cartier to Frontenac</i>, 1534-1700; <i>The Mississippi
+region: <i>Cartier to Frontenac</i>, 1534–1700; <i>The Mississippi
 Basin</i>; and <i>The Westward Movement</i>. Under this heading
 should be mentioned the publications of the various historical
 societies of the lake states, especially the Buffalo, Michigan,
 Wisconsin, and Minnesota collections.
 
 
-<sc>Part I.</sc> <i>Discovery and Exploration, 1615-1700</i>
+<sc>Part I.</sc> <i>Discovery and Exploration, 1615–1700</i>
 
 This period is taken up in Parkman’s <i>Pioneers of France in
 the New World</i>, <i>The Jesuits in North America</i>, <i>La Salle and
@@ -10328,7 +10328,7 @@ France under Louis XIV.</i> The seventy-three volumes of <i>Jesuit
 Relations and Allied Volumes</i>, edited by Reuben Gold Thwaites,
 are the source books for accounts of the Jesuits. A modern
 book which covers this period is C. W. Colby’s <i>Canadian
-Types of the Old Régime, 1608-1698</i>. E. B. O’Callaghan’s
+Types of the Old Régime, 1608–1698</i>. E. B. O’Callaghan’s
 <i>Documentary History of the State of New York</i> (4 vols.), 1849,
 and L. H. Morgan’s <i>League of the Iroquois</i> (2 vols.), 1901,
 give good accounts of the Indians, while the former has reprints
@@ -10343,14 +10343,14 @@ Discoveries and Voyages of Cavelier de La Salle from 1679 to
 <i>A New Discovery of a Vast Country in America</i> (2 vols.), and
 Lahontan’s <i>New Voyages to North America</i>, both reprinted and
 edited by R. G. Thwaites. C. W. Butterfield has written a
-<i>History of Brulé’s Discoveries and Explorations</i>, 1610-1626.
+<i>History of Brulé’s Discoveries and Explorations</i>, 1610–1626.
 The story of the pageant of Saint Lusson comes to us from his
 <i>Procès-Verbal</i> in the <i>Wisconsin Historical Collections</i>, xi, 26,
 and in Father Claude Dablon’s account in the <i>Jesuit Relations</i>,
-lv, 105-115.
+lv, 105–115.
 
 
-<sc>Part II.</sc> <i>The Struggle for Possession, 1700-1832</i>
+<sc>Part II.</sc> <i>The Struggle for Possession, 1700–1832</i>
 
 For the struggle between France and England Parkman’s
 <i>Half Century of Conflict</i> (2 vols.), <i>Montcalm and Wolfe</i>
@@ -10371,9 +10371,9 @@ Moore. Alexander Henry tells his own story in <i>Travels and
 Adventures in Canada and the Indian Territories</i>, 1809.
 
 For the period of the war between England and America,
-Henry Adams’ <i>History of the United States, 1800-1817</i>
+Henry Adams’ <i>History of the United States, 1800–1817</i>
 (9 vols.), is the authority. T. Roosevelt in his <i>The Winning
-of the West, 1777-1807</i> (5 vols.), gives his fifth volume to
+of the West, 1777–1807</i> (5 vols.), gives his fifth volume to
 <i>St. Clair and Wayne</i>. There are three standard works on the
 naval part of the war, J. Barnes’ <i>Naval Actions of the War of
 1812</i>, Roosevelt’s <i>The Naval War of 1812</i>, and A. T.
@@ -10386,7 +10386,7 @@ of the Massacre at Chicago, 1844</i>, supposed to be the
 Kinzie account, <i>The Chicago Massacre in 1812</i>, which is the
 Heald account, written at a much later date by Joseph Kirkland,
 and an anonymous document in the <i>Michigan Pioneer and Historical
-Collections</i>, viii, 648-652. The Black Hawk War is
+Collections</i>, viii, 648–652. The Black Hawk War is
 treated in all histories of the time. The material about Black
 Hawk himself is gathered from B. Drake’s <i>Life and Adventures
 of Black Hawk</i> (7th ed., 1846), <i>Life of Black Hawk, Dictated
@@ -10440,7 +10440,7 @@ of De Witt Clinton</i>. J. L. Barton’s <i>Commerce of the Lakes and
 the Erie Canal</i>, William Norris’ <i>Map of the Railroads and
 Canals in the United States and Canada, August, 1834</i>, <i>Early
 Chicago Railroads, 1838</i>, and W. K. Ackerman’s <i>Early
-Illinois Railroads</i>, in <i>Fergus Historical Series</i>, No. 23, pp. 3-62,
+Illinois Railroads</i>, in <i>Fergus Historical Series</i>, No. 23, pp. 3–62,
 and a little book, <i>Instructions for Running Railroads</i>, 1862,
 are all good for the years of rapid development about the lakes.
 Two other books on railroads should be included: F. H.
@@ -10470,13 +10470,13 @@ contributes something to the account of the region.
 
 <i>Travels.</i> J. Carver’s <i>Travels through the Interior Parts of
 North America in 1766, 1767, 1768</i>; I. Weld’s <i>Travels,
-1795-1797</i>; J. Harriott’s <i>Struggles through Life</i>, etc., 1796,
-ii, 97-149; Sutcliff’s <i>Travels, 1804, 1805, 1806</i>; John
+1795–1797</i>; J. Harriott’s <i>Struggles through Life</i>, etc., 1796,
+ii, 97–149; Sutcliff’s <i>Travels, 1804, 1805, 1806</i>; John
 Melish’s <i>Travels in the United States in 1806 and 1807 and
 1809, 1810, 1811</i> (2 vols.); Schultz’ <i>Travels on an Inland
 Voyage</i>, 1807 and 1808; F. Hall’s <i>Travels in 1816 and 1817</i>;
-J. M. Duncan’s <i>Travels</i>, ii, 3-120; <i>Views of Society and
-Manners in America, 1818-1820</i>, pp. 125-181; H. R. Schoolcraft’s
+J. M. Duncan’s <i>Travels</i>, ii, 3–120; <i>Views of Society and
+Manners in America, 1818–1820</i>, pp. 125–181; H. R. Schoolcraft’s
 <i>Narrative Journal of Travels from Detroit Northwest in
 1820</i>, which gives an official account of the Cass expedition;
 William Dalton’s <i>Travels</i>, 1821; P. Stansbury’s <i>Pedestrian Tour
@@ -10486,7 +10486,7 @@ McKenney’s <i>Sketches of a Tour to the Lakes</i>, which is very
 valuable; Basil Hall’s <i>Travels in North America in 1827
 and 1828</i>, treating in vol. i of this region; Anne Royall’s
 <i>Black Book</i>, vol. i; John Fowler’s <i>Journal of a Tour in the
-State of New York in 1830-1831</i>. We come now to a set
+State of New York in 1830–1831</i>. We come now to a set
 of travels which tell of the western lakes in particular and give a
 picture of their towns: <i>A Winter in the West, by a New
 Yorker</i> (2 vols.), 1835; <i>Life on the Lakes</i>, telling of a Lake
@@ -10494,9 +10494,9 @@ Superior trip in 1836 by the author of “Legends of a Log
 Cabin”; Bela Hubbard’s <i>Memorials of Half a Century</i>, also
 of a voyage to Lake Superior. J. L. Peyton’s <i>Over the Alleghanies
 and Across the Prairies</i>, 1848, and Captain Mackinnon’s
-<i>Atlantic and Trans-Atlantic Sketches</i>, i, 141-233,
+<i>Atlantic and Trans-Atlantic Sketches</i>, i, 141–233,
 give vivid pictures of lake travel. Lillian Foster was in Chicago
-in 1860, and tells in <i>Wayside Glimpses</i>, pp. 200-224, her impressions
+in 1860, and tells in <i>Wayside Glimpses</i>, pp. 200–224, her impressions
 of Douglas and the political situation. Margaret Fuller
 spent a <i>Summer on the Lakes in 1843</i>; Charles Dickens went
 to Niagara, which he describes in his <i>American Notes</i>, 1842,
@@ -10513,17 +10513,17 @@ Sketches on the Western Country</i>, 1819; William Darby’s <i>Emigrants’
 Guide to the Western and Southwestern States and Territories</i>,
 1818; G. M. Davison’s <i>The Fashionable Tour</i>, with
 several successive editions under the title, <i>The Traveller’s Guide</i>,
-1830-1840; J. Disturnell’s <i>The Western Traveller</i>, 1844, and
+1830–1840; J. Disturnell’s <i>The Western Traveller</i>, 1844, and
 <i>A Trip through the Lakes of North America</i>, 1857; T.
 Dwight’s <i>The Northern Traveller</i>; A. D. Jones’ <i>Illinois and
 the West</i>, 1838, which is especially good on pioneer conditions;
 John Melish’s <i>Geographical Description of the United States</i>,
 <i>Information and Advice to Emigrants</i>, and <i>Traveller’s Directory</i>,
-1815-1826; S. A. Mitchell’s <i>Illinois in 1837</i>; J. M.
+1815–1826; S. A. Mitchell’s <i>Illinois in 1837</i>; J. M.
 Peck’s <i>Gazetteer of Illinois</i>, <i>Guide for Emigrants</i>, and <i>New
-Guide for Emigrants to the West</i>, 1831-1848; J. C. Smith’s
+Guide for Emigrants to the West</i>, 1831–1848; J. C. Smith’s
 <i>The Western Tourist</i>, 1840, and Steele’s <i>Western Guide-Books</i>,
-1830-1840; H. Spofford’s <i>Pocket Guide of the State of New
+1830–1840; H. Spofford’s <i>Pocket Guide of the State of New
 York</i>, 1824; H. S. Tanner’s <i>The American Traveller</i> (8th ed.,
 1842); and George Temple’s <i>The American Tourist’s Pocket
 Companion</i>, 1812.
@@ -10540,7 +10540,7 @@ Adrian, 276, 285.
 Albany, 91, 102, 228, 232, 237, 242, 248, 252, 256, 259.
 
 Allouez, Father Claude, 41;
-  address to Indians, 45-47.
+  address to Indians, 45–47.
 
 American Fur Company, 338.
 
@@ -10552,46 +10552,46 @@ Astor, John Jacob, 338, 357.
 
 
 Barclay, Commodore, in command of British fleet on Lake Erie, 182, 183;
-  defeated by Perry, 184-187.
+  defeated by Perry, 184–187.
 
-Battles, Niagara, 108-111;
+Battles, Niagara, 108–111;
   Bloody Run, 129, 130;
   Fallen Timbers, 160, 161;
   Tippecanoe, 166;
   River Raisin, 180, 181;
-  Lake Erie, 183-187;
+  Lake Erie, 183–187;
   The Thames, 188, 189;
   Chippewa Creek, 189;
   Lundy’s Lane, 189;
   Wisconsin Heights, 210, 211;
   Bad Axe, 211.
 
-Beall, John Yates, Confederate agent on the lakes, 322-326, 328, 329.
+Beall, John Yates, Confederate agent on the lakes, 322–326, 328, 329.
 
-Bibliography, 385-391.
+Bibliography, 385–391.
 
-Black Hawk, appearance and early career, 201-203;
-  his war, 205-212;
-  his eastern trip, 212-214.
+Black Hawk, appearance and early career, 201–203;
+  his war, 205–212;
+  his eastern trip, 212–214.
 
 Black Rock, 181, 182, 254.
 
 Boone, Daniel, at Detroit, 152.
 
-Brébeuf, Father Jean, Jesuit missionary to Hurons, 25-37;
+Brébeuf, Father Jean, Jesuit missionary to Hurons, 25–37;
   founder of mission, 25;
-  life among Indians, 25-33;
+  life among Indians, 25–33;
   killed by Iroquois, 37.
 
-Brock, Gen. Isaac, captures Detroit for British, 168-172.
+Brock, Gen. Isaac, captures Detroit for British, 168–172.
 
 Brulé, Étienne, first white man to see Lake Huron, 10, 14.
 
 Buffalo, founded, 220, 221;
   in 1811, 246, 247;
   terminus of Erie Canal,
-  254-256, 260;
-  in 1840, 266-269;
+  254–256, 260;
+  in 1840, 266–269;
   lumber market, 345, 346;
   first steamboat launched at, 360;
   grain elevators, 370;
@@ -10600,16 +10600,16 @@ Buffalo, founded, 220, 221;
 Buffalo roads, 229, 230.
 
 
-Cadillac, La Mothe, founder of Detroit, 88-98;
+Cadillac, La Mothe, founder of Detroit, 88–98;
   character, 88;
   at Mackinac, 88;
-  at Detroit, 89-98.
+  at Detroit, 89–98.
 
 Cadillac, Madame, 96.
 
 Campbell, Capt., 124, 126.
 
-Camp Douglas, 319-322, 326.
+Camp Douglas, 319–322, 326.
 
 Canals, Welland, 5, 283;
   Hennepin, 6;
@@ -10622,47 +10622,47 @@ Canals, Welland, 5, 283;
   “Soo,” <i>see under</i> Sault Ste. Marie.
 
 Cass, Lewis, in War of 1812, 170;
-  governor of Michigan territory, 191-200;
+  governor of Michigan territory, 191–200;
   early life, 192;
-  management of the territory, 193-196;
-  dealings with Indians, 196-200;
+  management of the territory, 193–196;
+  dealings with Indians, 196–200;
   at Duluth, 200, 224, 225.
 
 Champlain, Samuel de, on Lake Huron, 10, 14;
   early career, 12, 13;
-  among the Hurons, 14-23;
+  among the Hurons, 14–23;
   his writings, 23, 24.
 
 Chicago, military post, 166;
-  massacre at, 172-177;
+  massacre at, 172–177;
   under Governor Cass, 193, 198, 200;
   town begun, 222, 223;
-  in 1840, 266, 275-279;
-  Lincoln and Douglas in, 299-316;
-  in Civil War, 318-322, 327-329;
+  in 1840, 266, 275–279;
+  Lincoln and Douglas in, 299–316;
+  in Civil War, 318–322, 327–329;
   first steamboat to, 361;
   grain elevators, 369, 370;
-  the modern city, 379-383;
+  the modern city, 379–383;
   <i>see also</i> Chicago River, <i>and</i> Fort Dearborn.
 
 Chicago University, 319, 381.
 
 Cleveland, founded, 164, 165, 219, 220;
   in 1840, 272, 273;
-  coming of the first train, 289-291;
+  coming of the first train, 289–291;
   commerce, 291, 350, 351;
   shipyards, 372, 373;
   rapid growth, 374, 375, 377, 378.
 
 Cleveland, Moses, 164, 219.
 
-Clinton, De Witt, and the Erie Canal, 237, 238, 251, 254-260.
+Clinton, De Witt, and the Erie Canal, 237, 238, 251, 254–260.
 
-Confederate operations on the lakes, 317-329.
+Confederate operations on the lakes, 317–329.
 
 Connecticut, land cession, 219.
 
-Conventions, National Republican of 1860, 300, 311-314;
+Conventions, National Republican of 1860, 300, 311–314;
   National Democratic of 1864, 321, 322.
 
 Coureurs de bois, 41, 47, 107, 333, 334.
@@ -10676,16 +10676,16 @@ Dalyell, Capt., at siege of Detroit, 128, 129;
 Davis, Jefferson, in Black Hawk War, 207;
   sends commissioners to Canada, 317.
 
-Davison, Gideon, his Travellers’ Guides, 267-269.
+Davison, Gideon, his Travellers’ Guides, 267–269.
 
 Denonville, governor of New France, 87, 104.
 
-Detroit, founded by French, 87-100;
+Detroit, founded by French, 87–100;
   taken by British, 116;
-  blockaded by Pontiac, 118-134;
-  in 1776, 151-153;
+  blockaded by Pontiac, 118–134;
+  in 1776, 151–153;
   an American post, 154, 163, 164;
-  taken by British, 166-172;
+  taken by British, 166–172;
   under Gov. Cass, 194, 195;
   fire at, 221;
   in 1840, 274, 275;
@@ -10694,16 +10694,16 @@ Detroit, founded by French, 87-100;
 
 Detroit River, visited by La Salle, 62, 63;
   first recorded passage of, 63;
-  importance of, 88-91;
-  beauty of, 91-93;
-  military operations on, 125-131, 167-170, 187, 190, 323, 325;
-  commerce of, 371-373.
+  importance of, 88–91;
+  beauty of, 91–93;
+  military operations on, 125–131, 167–170, 187, 190, 323, 325;
+  commerce of, 371–373.
 
-Douglas, Stephen A., 299-316;
-  early career, 302-306;
-  debates with Lincoln, 300, 309-311;
+Douglas, Stephen A., 299–316;
+  early career, 302–306;
+  debates with Lincoln, 300, 309–311;
   Senator, 305, 311, 314, 315;
-  supporter of Lincoln, 314-316;
+  supporter of Lincoln, 314–316;
   death, 316.
 
 Druilletes, Gabriel, 41.
@@ -10714,28 +10714,28 @@ Duluth, Indian trading station, 224, 225, 334;
   becomes a town, 225;
   commerce of, 344, 354, 369.
 
-Dunkirk, railroad celebration at, 291-293.
+Dunkirk, railroad celebration at, 291–293.
 
 
 Erie, Lake, discovered and explored, 61, 63;
   forts on, 104, 108, 109, 118, 125, 164;
-  in War of 1812, 165-168, 179-190;
+  in War of 1812, 165–168, 179–190;
   settlements on, 219, 220;
-  roads, canals, and railroads to, 232-241, 242, 251-265, 283-297;
-  travel on, 268-274;
-  in Civil War, 322-326;
+  roads, canals, and railroads to, 232–241, 242, 251–265, 283–297;
+  travel on, 268–274;
+  in Civil War, 322–326;
   commerce of, 343, 345, 360.
 
 Erie, Penn., in 1840, 268, 272;
-  railroad war, 294-298;
+  railroad war, 294–298;
   underground railroad station, 302;
   <i>see also</i> Presque Isle <i>under</i> Forts.
 
-Erie Canal, 5, 195, 221, 226, 237, 238, 251-265;
-  building of, 251-254;
-  ceremony of opening, 254-260;
-  travel on, 261-263;
-  enlarged, 263-265; 271, 283.
+Erie Canal, 5, 195, 221, 226, 237, 238, 251–265;
+  building of, 251–254;
+  ceremony of opening, 254–260;
+  travel on, 261–263;
+  enlarged, 263–265; 271, 283.
 
 
 Forts, Frontenac, 52, 61, 105, 218;
@@ -10748,15 +10748,15 @@ Forts, Frontenac, 52, 61, 105, 218;
   Recovery, 158;
   Defiance, 159;
   Harrison, 166;
-  Dearborn, 166, 172-177;
+  Dearborn, 166, 172–177;
   Wayne, 166, 174, 276;
-  Malden, 167-170, 180, 183, 187, 188;
-  William, 338-341.
+  Malden, 167–170, 180, 183, 187, 188;
+  William, 338–341.
 
 Franklin, Benjamin, makes Great Lakes U.S. boundary, 347.
 
 Frenchtown, Hull at, 167;
-  American defeat at, 179-181.
+  American defeat at, 179–181.
 
 Frontenac, governor of New France, 50, 59, 67;
   recalled, 73;
@@ -10764,12 +10764,12 @@ Frontenac, governor of New France, 50, 59, 67;
   his plan to occupy Great Lakes, 87, 88;
   death, 87.
 
-Fuller, Margaret, trip to the lakes, 278-282.
+Fuller, Margaret, trip to the lakes, 278–282.
 
-Fur trade, carried on by French and English, 39, 51, 52, 66-68, 88, 89, 101, 102, 135, 145;
-  leading interest on the lakes, 330-342;
-  under the French, 331-335;
-  under the British, 335-342;
+Fur trade, carried on by French and English, 39, 51, 52, 66–68, 88, 89, 101, 102, 135, 145;
+  leading interest on the lakes, 330–342;
+  under the French, 331–335;
+  under the British, 335–342;
   under the Americans, 155, 165, 337, 338, 341, 347.
 
 
@@ -10778,7 +10778,7 @@ Genesee Turnpike, 233.
 Georgian Bay, 10, 12, 14, 25, 28, 148, 218.
 
 Gladwin, Major, in command at Detroit, 119;
-  blockaded by Pontiac, 119-133;
+  blockaded by Pontiac, 119–133;
   saves Detroit, 133.
 
 Grain, handled by lake ports, 6, 369, 370.
@@ -10792,22 +10792,22 @@ Green Bay, 76, 333, 337.
 Groseillers, 39.
 
 
-Hamilton, Gen., at Detroit, 151-153;
+Hamilton, Gen., at Detroit, 151–153;
   captured by Clark, 153.
 
 Harmar, Gen., unsuccessful expedition against Indians, 156, 161, 174.
 
-Harriott, John, journey to Lake Erie, 242-246.
+Harriott, John, journey to Lake Erie, 242–246.
 
 Harrison, Gen. W. H., at Tippecanoe, 166;
   Lake Erie expedition, 179, 180;
-  battle of the Thames, 187-189.
+  battle of the Thames, 187–189.
 
-Harvey, C. T., designer and builder of “Soo” Canal, 362-364.
+Harvey, C. T., designer and builder of “Soo” Canal, 362–364.
 
 Hawley, Jesse, and Erie Canal, 237.
 
-Heald, Capt., in command at Fort Dearborn, 172-177;
+Heald, Capt., in command at Fort Dearborn, 172–177;
   escapes massacre, 176, 177.
 
 Hennepin, Father Louis, companion of La Salle, 51;
@@ -10815,7 +10815,7 @@ Hennepin, Father Louis, companion of La Salle, 51;
   and of the voyage, 58, 59;
   names Lake St. Clair, 63.
 
-Henry, Alexander, adventures at Mackinac, 135-150;
+Henry, Alexander, adventures at Mackinac, 135–150;
   copper mining, 347.
 
 Hines, Capt., Confederate agent, 321, 322.
@@ -10824,19 +10824,19 @@ Hotels, American, and Franklin, in Cleveland, 273;
   Lake House, in Chicago, 277, 278;
   Tremont House, in Chicago, 307, 308, 314, 316.
 
-Hull, Gen., in War of 1812, 166-172;
+Hull, Gen., in War of 1812, 166–172;
   surrenders Detroit, 171.
 
-Huron, Lake, discovered and explored, 10-14, 25-28, 37, 65, 71, 88, 150, 218;
+Huron, Lake, discovered and explored, 10–14, 25–28, 37, 65, 71, 88, 150, 218;
   travel on, 282;
   commerce of, 336, 337, 360, 372.
 
 
 Illinois, part of Northwest Territory, 155;
   becomes a state, 193;
-  Black Hawk War in, 201-214;
+  Black Hawk War in, 201–214;
   in 1840, 266, 267, 269, 270;
-  in 1850-1860, 299, 300, 302, 304, 305;
+  in 1850–1860, 299, 300, 302, 304, 305;
   in Civil War, 318.
 
 Indiana, part of Northwest Territory, 155, 165;
@@ -10846,31 +10846,31 @@ Indiana, part of Northwest Territory, 155, 165;
   in Civil War, 318.
 
 Indian treaties, with La Salle, 56;
-  with La Barre, 76-83;
+  with La Barre, 76–83;
   with Le Moyne, 102;
-  with Johnson, 131-133, 145, 149;
+  with Johnson, 131–133, 145, 149;
   with Wayne (Treaty of Greenville), 162, 164, 219, 222;
-  with Cass, 198-200, 224, 225;
+  with Cass, 198–200, 224, 225;
   with U. S. government, 202.
 
 Indian tribes, <i>Iroquois</i> or Five Nations, location and organization, 11, 12, 232;
-  their relations to the French, 17-22, 36-38, 54, 60, 74-84;
+  their relations to the French, 17–22, 36–38, 54, 60, 74–84;
   at Niagara, 102, 217;
-  <i>Hurons</i>, location, 12-16;
-  at war with Iroquois, 16-23, 36, 37;
+  <i>Hurons</i>, location, 12–16;
+  at war with Iroquois, 16–23, 36, 37;
   <i>Algonquins</i>, 12, 114;
   <i>Neutral Nation</i>, 33;
   <i>Ojibways</i>, 114;
   <i>Ottawas</i>, 114, 120, 144, 145;
   <i>Illinois</i>, 114, 134;
-  <i>Chippewas</i>, 138-145;
-  <i>Sauk</i> and <i>Fox</i>, 202-214.
+  <i>Chippewas</i>, 138–145;
+  <i>Sauk</i> and <i>Fox</i>, 202–214.
   <i>For Mohawks, Oneidas, Onondagas, Cayugas, Senecas</i>, see under <i>Iroquois</i>.
 
 Iroquois Trail, 231, 232, 251.
 
 
-Jesuits, missions to Hurons, 25-38;
+Jesuits, missions to Hurons, 25–38;
   to Iroquois, 38;
   at Sault Ste. Marie, 34, 35, 39;
   at La Pointe, 39, 41;
@@ -10880,24 +10880,24 @@ Jogues, Father Isaac, Jesuit missionary, among Hurons, 32, 34;
   visits and names Sault Ste. Marie, 35;
   captured and killed by Iroquois, 35, 36.
 
-Johnson, Sir William, captures Niagara, 106-111;
-  Indian conferences, 131, 132, 133, 146-149.
+Johnson, Sir William, captures Niagara, 106–111;
+  Indian conferences, 131, 132, 133, 146–149.
 
 Johnston, Albert, 207.
 
 Joncaire, 101, 108.
 
 
-La Barre, Gen. Le Febvre de, 73-84;
-  expedition against Iroquois, 74-84.
+La Barre, Gen. Le Febvre de, 73–84;
+  expedition against Iroquois, 74–84.
 
-La Motte, companion of La Salle, 53-56.
+La Motte, companion of La Salle, 53–56.
 
 La Pointe, 39, 41.
 
-La Salle, Robert Cavelier, Sieur de, early career, 49-51;
-  builds the <i>Griffon</i>, 56-60;
-  on Lakes Erie, Huron, and Michigan, 61-71.
+La Salle, Robert Cavelier, Sieur de, early career, 49–51;
+  builds the <i>Griffon</i>, 56–60;
+  on Lakes Erie, Huron, and Michigan, 61–71.
 
 Le Caron, Father Joseph, 10, 15, 16.
 
@@ -10905,30 +10905,30 @@ Le Moyne, Charles (1st), 103.
 
 Le Moyne, Charles (2d), with La Barre, 75, 80, 82, 104.
 
-Le Moyne, Charles (3d), builds Fort Niagara, 102-104.
+Le Moyne, Charles (3d), builds Fort Niagara, 102–104.
 
 Le Moyne, Father, 38.
 
 Lewiston, 54, 102, 232, 238.
 
 Lincoln, Abraham, in Black Hawk War, 206;
-  debates with Douglas, 300, 302, 308-311;
-  nominated for presidency, 311-314.
+  debates with Douglas, 300, 302, 308–311;
+  nominated for presidency, 311–314.
 
 Lockport, 253, 256, 257, 264.
 
 Logan, Gen. John A., 3, 316.
 
 Lumber, forest distribution, 342, 343;
-  industry, 343-347.
+  industry, 343–347.
 
 
 McDougall, Lieut., at Detroit, 124, 126.
 
 Mackinac (called Michilimackinac, Mackinaw), trading post, 66, 67, 88, 218, 223, 224, 281;
-  Northwest Fur Company and American Fur Company station, 335-338, 357;
+  Northwest Fur Company and American Fur Company station, 335–338, 357;
   lumber region, 344;
-  fort at, 118, 135-150, 166, 168, 169, 177, 224, 268.
+  fort at, 118, 135–150, 166, 168, 169, 177, 224, 268.
 
 Manitoulin Island, 41, 281.
 
@@ -10936,22 +10936,22 @@ Marquette, 42, 218.
 
 Massachusetts land cession, 220.
 
-Melish, John, journey in western New York, 246-248.
+Melish, John, journey in western New York, 246–248.
 
 Ménard, Father, on Lake Superior, 39.
 
 Michigan, part of Northwest Territory, 155;
-  a separate territory under Cass, 191-196;
+  a separate territory under Cass, 191–196;
   becomes a state, 196;
   in 1840, 266, 267;
-  railroads, 284-288;
-  lumber trade, 343-345;
-  mineral wealth, 347-351.
+  railroads, 284–288;
+  lumber trade, 343–345;
+  mineral wealth, 347–351.
 
-Michigan, Lake, discovered and explored, 35, 39, 40, 49, 67-71;
-  forts on, 70, 118, 119, 166, 172-178;
+Michigan, Lake, discovered and explored, 35, 39, 40, 49, 67–71;
+  forts on, 70, 118, 119, 166, 172–178;
   settlement on, 198, 200, 222, 223;
-  travel on, 279-281;
+  travel on, 279–281;
   commerce of, 337, 357, 361, 369, 370.
 
 Michigan City, in 1840, 266, 276;
@@ -10964,22 +10964,22 @@ Milwaukee, founded, 223, 224;
   rapid growth, 374, 375.
 
 Minerals, copper, 4, 8, 347, 348;
-  iron, 4, 8, 348-354, 367-369;
+  iron, 4, 8, 348–354, 367–369;
   lead, 201, 202.
 
 Minnesota, lumber trade, 343, 344, 346;
-  mineral wealth, 352-354.
+  mineral wealth, 352–354.
 
 
 New York, home of Iroquois tribes, 11, 12;
   Indian trails, 231, 232;
-  turnpikes, 232-236, 242-250;
-  canals, 237, 250-265;
-  railroads, 238-241, 291-298.
+  turnpikes, 232–236, 242–250;
+  canals, 237, 250–265;
+  railroads, 238–241, 291–298.
 
-Niagara, discovered, 52-61;
-  held by French, 101-105;
-  taken by English, 105-112;
+Niagara, discovered, 52–61;
+  held by French, 101–105;
+  taken by English, 105–112;
   Indian convention at, 132, 149;
   in War of 1812, 181, 182, 189.
 
@@ -10988,32 +10988,32 @@ Niagara Falls, location, 5;
   description of, 53;
   visited, 246.
 
-Niagara, Fort, built, 101-105;
-  captured by British, 105-113;
+Niagara, Fort, built, 101–105;
+  captured by British, 105–113;
   centre of British influence, 153.
 
-Niagara River, key to the lakes, 54-60;
+Niagara River, key to the lakes, 54–60;
   in War of 1812,181,182, 189.
 
 Nicolet, 35, 331.
 
 Nipissing, Lake, 13, 27, 34, 218.
 
-Northwestern Fur Company, 224, 335, 338-341.
+Northwestern Fur Company, 224, 335, 338–341.
 
 
 Ohio, part of Northwest Territory, 155;
   becomes a state, 191;
   in 1840, 266, 267;
   canals, 283, 284;
-  railroads, 284-291;
+  railroads, 284–291;
   underground railroad, 301, 302;
   in Civil War, 318.
 
 Onondaga, <i>see</i> Syracuse.
 
 Ontario, Lake, discovered and explored, 17, 22, 52, 56, 75;
-  forts on, 52, 61, 100-112, 189, 218;
+  forts on, 52, 61, 100–112, 189, 218;
   travel on, 242;
   commerce of, 336.
 
@@ -11026,21 +11026,21 @@ Oswego, trading post, 102, 105, 333;
 
 
 Pennsylvania, canals, 284;
-  railroads, 291-297, 299, 302, 368.
+  railroads, 291–297, 299, 302, 368.
 
 Perrot, Nicholas, 201.
 
 Perry, Oliver Hazard, early life, 181;
-  in charge of Lake Erie fleet, 181-182;
-  battle of Lake Erie, 183-187, 190.
+  in charge of Lake Erie fleet, 181–182;
+  battle of Lake Erie, 183–187, 190.
 
 Pontiac, meets Rogers, 113;
-  character and early career, 113-116;
-  blockades Detroit, 119-131;
+  character and early career, 113–116;
+  blockades Detroit, 119–131;
   later life and death, 133.
 
 Pouchot, Capt., French officer at Niagara, 105;
-  besieged by English, 106-111;
+  besieged by English, 106–111;
   surrenders, 111.
 
 Prideaux, Gen., killed at Niagara, 105, 106.
@@ -11057,8 +11057,8 @@ Railroads, Mohawk and Hudson, 238, 240;
   284, 287, 288;
   Kalamazoo and Erie, 285, 286;
   Michigan Southern, 285;
-  Cleveland, Columbus, and Cincinnati, 288-291;
-  New York and Erie, 291-298;
+  Cleveland, Columbus, and Cincinnati, 288–291;
+  New York and Erie, 291–298;
   Illinois Central, 305, 306;
   Iron Mountain Road, 351;
   <i>see also under</i> Roads.
@@ -11071,27 +11071,27 @@ Rivers, Chicago, 70, 218, 222;
   Illinois, 66, 71, 106;
   Maumee, 133, 159, 178, 179, 218, 276, 284;
   Milwaukee, 223;
-  Mississippi, 12, 49, 104, 154, 155, 201-203, 211, 218, 225, 299;
+  Mississippi, 12, 49, 104, 154, 155, 201–203, 211, 218, 225, 299;
   Mohawk, 232, 237, 246, 252, 259, 264;
   Niagara, <i>see under</i> Niagara River;
   Ohio, 49, 104, 154, 158, 165, 228, 284, 302;
   Oswego, 102;
   Ottawa, 10, 13, 27, 51, 90, 154, 218;
-  Raisin, 179-181;
-  Rock, 201-208, 212;
+  Raisin, 179–181;
+  Rock, 201–208, 212;
   Sandusky, 183, 187;
   St. Croix, 225, 344;
   St. Joseph’s, 70, 119, 161, 218, 275;
   St. Lawrence, 12, 13, 74, 84, 96, 104, 147, 236;
-  Thames, 188-190;
+  Thames, 188–190;
   Wabash, 177, 218;
   Wisconsin, 201, 202, 210, 211, 212.
 
 Roads, buffalo roads, 229, 230;
-  Indian trails, 230-232;
-  turnpikes, 232-236, 247-250;
+  Indian trails, 230–232;
+  turnpikes, 232–236, 247–250;
   log-roads, 243;
-  railroads, 238-241, 283-298, 305, 344, 351, 353.
+  railroads, 238–241, 283–298, 305, 344, 351, 353.
 
 Rochester, founded, 220;
   turnpike to, 235, 236;
@@ -11108,26 +11108,26 @@ Rome, 232, 258, 259.
 
 Saginaw, 198, 344.
 
-St. Clair, Gen., his defeat, 156-159, 174.
+St. Clair, Gen., his defeat, 156–159, 174.
 
 St. Clair, Lake, named, 63, 64.
 
-Saint Lusson, Daumont de, his ceremony at Sault Ste. Marie, 40-48.
+Saint Lusson, Daumont de, his ceremony at Sault Ste. Marie, 40–48.
 
 Sandusky, in 1840, 268, 272, 273;
   Underground Railroad station, 302;
-  in Civil War, 322-325, 328;
+  in Civil War, 322–325, 328;
   <i>see also under</i> Forts.
 
 Sandwich, American army at, 168, 169;
   evacuated by British, 187, 188.
 
 Sault Ste. Marie, discovered, 34, 35, 39;
-  Saint Lusson at, 39-48;
-  Henry at, 137, 145-148;
+  Saint Lusson at, 39–48;
+  Henry at, 137, 145–148;
   Cass at, 199;
   Margaret Fuller at, 282;
-  “Soo” Canal built, 7, 8, 351, 362-365;
+  “Soo” Canal built, 7, 8, 351, 362–365;
   commerce of, 8, 364, 372.
 
 Schenectady, 232, 238, 240, 268.
@@ -11135,36 +11135,36 @@ Schenectady, 232, 238, 240, 268.
 Scott, Gen. Winfield, in Black Hawk War, 207, 212.
 
 Ships, kinds of, bateau, 127, 129, 358, 359;
-  canal boat, 255-259, 261-264;
-  canoe, 356-359;
+  canal boat, 255–259, 261–264;
+  canoe, 356–359;
   pirogue, 359;
   sailing vessel, 359, 360, 365;
-  steamboats, 268, 269, 279, 360-362, 371;
-  steel freighters, 365-370;
+  steamboats, 268, 269, 279, 360–362, 371;
+  steel freighters, 365–370;
   whalebacks, 370, 371;
   ice-breakers, 371, 372;
-  <i>Griffon</i>, first sailing vessel on the lakes, 51-69;
-  built by La Salle, 51-60;
-  on the lakes, 61-68;
+  <i>Griffon</i>, first sailing vessel on the lakes, 51–69;
+  built by La Salle, 51–60;
+  on the lakes, 61–68;
   lost, 69, 359, 373;
   <i>Beaver</i>, at Detroit, 120, 127, 359;
   <i>Gladwin</i>, at Detroit, 120, 126, 127, 130, 359;
-  ships in battle of Lake Erie, 183-187;
-  on Erie Canal, 255-259;
-  in Civil War, 322-326, 329;
+  ships in battle of Lake Erie, 183–187;
+  on Erie Canal, 255–259;
+  in Civil War, 322–326, 329;
   <i>Walk-in-the-Water</i>, first steamboat on the lakes, 360, 361, 373.
 
-Sons of Liberty, 318-322, 328.
+Sons of Liberty, 318–322, 328.
 
-Stage wagons, 234, 236, 243-245, 247, 248.
+Stage wagons, 234, 236, 243–245, 247, 248.
 
 Superior, Indian trading station, 224, 225;
   became a town, 225;
   commerce of, 344, 369.
 
-Superior, Lake, discovered and explored, 39, 198-200, 224;
+Superior, Lake, discovered and explored, 39, 198–200, 224;
   settlement on, 225;
-  commerce of, 336-341, 344, 347-354, 357, 360-370.
+  commerce of, 336–341, 344, 347–354, 357, 360–370.
 
 Syracuse (Onondaga), 232, 252, 264.
 
@@ -11172,7 +11172,7 @@ Syracuse (Onondaga), 232, 252, 264.
 Taylor, Col. Zachary, 207.
 
 Tecumseh, leads Indian uprising, 165, 166;
-  with the British, 169, 170, 187-189;
+  with the British, 169, 170, 187–189;
   killed, 189.
 
 Toledo, in 1840, 266, 276;
@@ -11189,17 +11189,17 @@ Toronto, 148, 219.
 
 Tower, Charlemagne, opens iron mines, 352, 354.
 
-Travel, bibliography, 389-391;
-  to Lake Erie, in 1796, 242-246;
-  in 1811, 246-250;
-  on Erie Canal, 261-263;
-  on Great Lakes in 1840, 266-282.
+Travel, bibliography, 389–391;
+  to Lake Erie, in 1796, 242–246;
+  in 1811, 246–250;
+  on Erie Canal, 261–263;
+  on Great Lakes in 1840, 266–282.
 
-Travellers, John Harriott, 242-246;
-  John Melish, 246-248;
+Travellers, John Harriott, 242–246;
+  John Melish, 246–248;
   an Englishwoman, 248, 249;
-  Anne Royall, 261-263;
-  Margaret Fuller, 278-282.
+  Anne Royall, 261–263;
+  Margaret Fuller, 278–282.
 
 Treaties, treaty of Paris, 1782, 153, 154;
   Jay’s treaty, 1796, 163;
@@ -11218,19 +11218,19 @@ Utica (Fort Schuyler), 232, 233, 238, 245, 248, 260, 262.
 
 <i>Walk-in-the-Water</i>, <i>see under</i> Ships.
 
-Wayne, Anthony, Indian campaign, 156-164;
+Wayne, Anthony, Indian campaign, 156–164;
   makes treaty of Greenville, 162;
   death, 164.
 
-Wells, William, at Fort Dearborn massacre, 174-177.
+Wells, William, at Fort Dearborn massacre, 174–177.
 
-Wigwam, Republican, 311-315.
+Wigwam, Republican, 311–315.
 
 Wisconsin, part of Northwest Territory, 155;
   called Huron district, 193;
-  Black Hawk War in, 201, 210-212;
+  Black Hawk War in, 201, 210–212;
   in 1840, 266, 267;
-  lumber trade, 343-346;
+  lumber trade, 343–346;
   mineral wealth, 351, 352, 354.
 i/
 
@@ -11407,7 +11407,7 @@ R/
 
 THE MACMILLAN COMPANY
 
-64-66 FIFTH AVENUE, NEW YORK
+64–66 FIFTH AVENUE, NEW YORK
 
 
 Abraham Lincoln
@@ -11466,4 +11466,4 @@ last, will find it here.”
 
 THE MACMILLAN COMPANY
 
-64-66 FIFTH AVENUE, NEW YORK
+64–66 FIFTH AVENUE, NEW YORK
