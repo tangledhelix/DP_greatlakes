@@ -28,6 +28,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] p393-p398: index
 * [ ] p399-p402: advertisements
 * [ ] There's a co-author; ensure it's in the upload metadata
+* [ ] Updated illustration descriptions in text file after split; review against HTML for consistency.
 
 ### Project manager notes ###
 
