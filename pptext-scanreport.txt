@@ -1,3 +1,7 @@
+﻿SMART QUOTE CHECKS (overlay format)
+suspect punctuation marked with '@' character
+-------------------------------------------------------------------
+
 
 
 
@@ -190,26 +194,26 @@ La Salle                                       _Frontispiece_
 
 The “Soo” Canal                              _facing page_  8
 
-Niagara Falls as sketched by Hennepin              ”       52
+Niagara Falls as sketched by Hennepin              [@UCDQ]”       52
 
-La Barre and Grangula                              ”       76
+La Barre and Grangula                              [@UCDQ]”       76
 
-A View of Niagara Fort                             ”      104
+A View of Niagara Fort                             [@UCDQ]”      104
 
-Black Hawk                                         ”      204
+Black Hawk                                         [@UCDQ]”      204
 
-Through the Locks at Lockport                      ”      256
+Through the Locks at Lockport                      [@UCDQ]”      256
 
-Chicago in 1831                                    ”      278
+Chicago in 1831                                    [@UCDQ]”      278
 
-An Early Lake Superior Copper Mine                 ”      348
+An Early Lake Superior Copper Mine                 [@UCDQ]”      348
 
-Iron Ore at a Lake Superior Port                   ”      352
+Iron Ore at a Lake Superior Port                   [@UCDQ]”      352
 
 The Old and the New, General Cass’s Canoe
-  and a Modern Freight Steamer                     ”      360
+  and a Modern Freight Steamer                     [@UCDQ]”      360
 
-Grain Elevator and Lumber Jam                      ”      370
+Grain Elevator and Lumber Jam                      [@UCDQ]”      370
 
 
 
@@ -485,7 +489,7 @@ the groves of walnut trees, whose branches were twined with hanging
 grapevines, had not been set out by the hand of man to form a beautiful
 artistic picture. The party stopped once and encamped for a grand
 deer-hunt, and then proceeded on its way, well-stocked with provisions
-for the first days in the enemies’ country. Out upon Lake Ontario the
+for the first days in the enemies[@UCSQ]’ country. Out upon Lake Ontario the
 frail canoes ventured, and crossed it in safety, landing on the eastern
 side of the lake, thirty miles or so from Oswego.
 
@@ -1856,7 +1860,7 @@ fruit, towards the mother earth which has produced them. It is in this
 land, so fertile, that the ambitious vine, which has never wept under
 the knife of the vine-dresser, builds a thick roof with its large
 leaves and heavy clusters, weighing down the top of the tree which
-receives it, and often stifling it with its embrace.
+receives it, and often stifling it with its embrace.[@NESK “]
 
 “Under these broad walks one sees assembled by hundred the timid deer
 and fawn, also the squirrel bounding in his eagerness to collect the
@@ -2763,13 +2767,13 @@ day to purchase tomahawks, he saw nothing unusual. The next day, the
 Henry tell his own story.
 
 “The morning was sultry. A Chippewa came to tell me that his nation was
-going to play at baggatiway (called by the Canadians “la crosse”) with
+going to play at baggatiway (called by the Canadians [@CODQ]“la crosse”) with
 the Sacs, another Indian nation. He invited me to witness the sport,
 adding that the commandant was to be there, and would bet on the side
 of the Chippewas. In consequence of this information, I went to the
 commandant and expostulated with him a little, representing that the
 Indians might possibly have some sinister end in view; but he only
-smiled at my suspicions.
+smiled at my suspicions.[@NESK “]
 
 “I did not go myself to see the match, which was now to be played
 without the fort, because, there being a canoe prepared to depart on
@@ -2780,7 +2784,7 @@ proposing that I should go with him to the beach to inquire the news,
 it so happened that I still remained to finish my letters, promising to
 follow Mr. Tracy in the course of a few minutes. Mr. Tracy had not gone
 more than twenty paces from my door, when I heard an Indian war-cry,
-and a noise of general confusion.
+and a noise of general confusion.[@NESK “]
 
 “Going instantly to my window, I saw a crowd of Indians, within the
 fort, furiously cutting down and scalping every Englishman they found.
@@ -4976,7 +4980,7 @@ ever formed in America at that date, marched through the streets, a
 grand exhibition of fireworks was held, and a ball was given in a room
 made by the joining of an amphitheatre and a circus building, forming
 the largest ball-room ever used in America. All about the hall the
-great names of the canal constructors were blazoned, and in the ladies’
+great names of the canal constructors were blazoned, and in the ladies[@UCSQ]’
 banquet room a boat made of maple sugar, which had been presented
 to Governor Clinton at Utica, floated in a vessel filled with Lake
 Erie water. At the end of the celebration the committee from the West
@@ -5109,7 +5113,7 @@ Together the five states of Ohio, Indiana, Illinois, Michigan, and
 Wisconsin had come in 1837 to have nearly three million inhabitants.
 
 Another picture of the rapid growth of the country is given in the
-successive additions to a series of “Travellers’ Guides,” published
+successive additions to a series of “Travellers[@UCSQ]’ Guides,” published
 between 1825 and 1840 by Gideon Davison. He wrote for tourists, not
 emigrants, and entitled each book “The Fashionable Tour in 1825” or
 whatever the year might be. In the first edition, published in 1825,
@@ -5610,7 +5614,7 @@ answer to the calls of the people for him, and postponed his speech
 until the next night. With suitable éclat, the ocean and the lakes were
 once more “forever united,” this time in very truth, by a service which
 took only twenty hours in contrast to the three days of the Erie Canal.
-In the words of one of the banners in the hall, “’Tis done,--’tis done,
+In the words of one of the banners in the hall, “[@UCSQ]’Tis [@UCSQ]done,--’tis done,
 the mighty chain that binds bright Erie to the main.”
 
 “Bright Erie” was not yet connected as closely as the public might
@@ -7317,7 +7321,7 @@ the future. From 1880 to 1890 the most rapid growth of the city was in
 this region. During these ten years, while the rate of increase of the
 ocean ports ranged from San Francisco’s fourteen per cent to New York’s
 thirty-eight per cent, and that of the river cities from Cincinnati’s
-nine per cent to St. Louis’ twenty-seven, no one of the six great
+nine per cent to St. Louis[@UCSQ]’ twenty-seven, no one of the six great
 ports of the lakes fell below an increase of thirty-seven per cent,
 and Chicago’s ran up to fifty-four, and Toledo’s to sixty-one. This
 is a striking exhibition of the movement of population in the wake of
@@ -7406,7 +7410,7 @@ For the period of the war between England and America, Henry Adams’
 _History of the United States, 1800–1817_ (9 vols.), is the authority.
 T. Roosevelt in his _The Winning of the West, 1777–1807_ (5 vols.),
 gives his fifth volume to _St. Clair and Wayne_. There are three
-standard works on the naval part of the war, J. Barnes’ _Naval Actions
+standard works on the naval part of the war, J. Barnes[@UCSQ]’ _Naval Actions
 of the War of 1812_, Roosevelt’s _The Naval War of 1812_, and A. T.
 Mahan’s _Sea Power in its Relations to the War of 1812_ (2 vols.).
 There are many contemporary accounts of the battles and defences of
@@ -7421,7 +7425,7 @@ in all histories of the time. The material about Black Hawk himself
 is gathered from B. Drake’s _Life and Adventures of Black Hawk_ (7th
 ed., 1846), _Life of Black Hawk, Dictated by Himself_, 1834, and S. G.
 Drake’s _Book of the Indians_ (8th ed., 1841), which has also accounts
-of Pontiac and Tecumseh. R. G. Thwaites’ _How George Rogers Clark
+of Pontiac and Tecumseh. R. G. Thwaites[@UCSQ]’ _How George Rogers Clark
 Won the Northwest_, has an essay on the Black Hawk War, as well as
 other interesting essays on this period. Randall Parrish’s _Historic
 Illinois_ should be mentioned in this connection as the best book of
@@ -7462,7 +7466,7 @@ A. T. Andreas’ _History of Chicago_ (3 vols.).
 The Buffalo Historical Collections have much material about the Erie
 Canal, as has W. W. Campbell’s _Life and Writings of De Witt Clinton_.
 J. L. Barton’s _Commerce of the Lakes and the Erie Canal_, William
-Norris’ _Map of the Railroads and Canals in the United States and
+Norris[@UCSQ]’ _Map of the Railroads and Canals in the United States and
 Canada, August, 1834_, _Early Chicago Railroads, 1838_, and W. K.
 Ackerman’s _Early Illinois Railroads_, in _Fergus Historical Series_,
 No. 23, pp. 3–62, and a little book, _Instructions for Running
@@ -7495,7 +7499,7 @@ _Travels._ J. Carver’s _Travels through the Interior Parts of North
 America in 1766, 1767, 1768_; I. Weld’s _Travels, 1795–1797_; J.
 Harriott’s _Struggles through Life_, etc., 1796, ii, 97–149; Sutcliff’s
 _Travels, 1804, 1805, 1806_; John Melish’s _Travels in the United
-States in 1806 and 1807 and 1809, 1810, 1811_ (2 vols.); Schultz’
+States in 1806 and 1807 and 1809, 1810, 1811_ (2 vols.); Schultz[@UCSQ]’
 _Travels on an Inland Voyage_, 1807 and 1808; F. Hall’s _Travels in
 1816 and 1817_; J. M. Duncan’s _Travels_, ii, 3–120; _Views of Society
 and Manners in America, 1818–1820_, pp. 125–181; H. R. Schoolcraft’s
@@ -7533,7 +7537,7 @@ States and Territories_, 1818; G. M. Davison’s _The Fashionable Tour_,
 with several successive editions under the title, _The Traveller’s
 Guide_, 1830–1840; J. Disturnell’s _The Western Traveller_, 1844, and
 _A Trip through the Lakes of North America_, 1857; T. Dwight’s _The
-Northern Traveller_; A. D. Jones’ _Illinois and the West_, 1838, which
+Northern Traveller_; A. D. Jones[@UCSQ]’ _Illinois and the West_, 1838, which
 is especially good on pioneer conditions; John Melish’s _Geographical
 Description of the United States_, _Information and Advice to
 Emigrants_, and _Traveller’s Directory_, 1815–1826; S. A. Mitchell’s
@@ -7693,7 +7697,7 @@ New York_, 1824; H. S. Tanner’s _The American Traveller_ (8th ed.,
   Davis, Jefferson, in Black Hawk War, 207;
     sends commissioners to Canada, 317.
 
-  Davison, Gideon, his Travellers’ Guides, 267–269.
+  Davison, Gideon, his Travellers[@UCSQ]’ Guides, 267–269.
 
   Denonville, governor of New France, 87, 104.
 
@@ -8385,6 +8389,7 @@ characteristic quaint turns of humor set them off entertainingly.
 Illustrated by G. VARIAN and B. W. CLINEDINST.
 
                                                           _Cloth, $1.50_
+
 
                              _PUBLISHED BY_
                          THE MACMILLAN COMPANY
