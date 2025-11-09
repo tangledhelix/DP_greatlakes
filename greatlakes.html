@@ -19,6 +19,11 @@ h1,h2,h3,h4,h5,h6 {
     clear: both;
 }
 
+/* title page customizations */
+.tp-small { font-size: 80%; }
+.tp-large { font-size: 120%; }
+.tp-xl { font-size: 150%; }
+
 p {
     margin-top: .51em;
     text-align: justify;
@@ -48,6 +53,7 @@ hr.r65 {width: 65%; margin-top: 3em; margin-bottom: 3em; margin-left: 17.5%; mar
 
 div.chapter {page-break-before: always;}
 h2.nobreak  {page-break-before: avoid;}
+.chap-subhead {font-size: 70%; }
 
 ul.index { list-style-type: none; }
 li.ifrst {
@@ -88,7 +94,13 @@ table.autotable th { padding: 0.25em; }
 .tdl      {text-align: left;}
 .tdr      {text-align: right;}
 .tdc      {text-align: center;}
+.tdt { vertical-align: top; }
+.tdb { vertical-align: bottom; }
+.tdlp { padding-left: 1.5em; }
+.tdlp2 { padding-left: 3em; }
 
+.td-small { font-size: 80%; }
+.td-spacer { height: 1.5em; }
 .pagenum { /* uncomment the next line for invisible page numbers */
     /*  visibility: hidden;  */
     position: absolute;
@@ -251,6 +263,9 @@ img.w100 {width: 100%;}
 /* indent paragraphs */
 p { text-indent: 1em; }
 p.noindent { text-indent: 0; }
+.padl2 { padding-left: 2em; }
+.padl3 { padding-left: 3em; }
+.padl4 { padding-left: 4em; }
 
 /* de-emphasize page numbers */
 .pagenum { color: #bbbbbb; }
@@ -302,26 +317,25 @@ blockquote {
 
 <p><span class="pagenum" id="Page_i">[Pg i]</span></p>
 
-<h1>
+<p class="center tp-xl">
 THE STORY OF THE GREAT LAKES
-
-<p><span class="pagenum" id="Page_ii">[Pg ii]</span></p>
-</h1>
+<span class="pagenum" id="Page_ii">[Pg ii]</span>
+</p>
 
 
 <p>[Illustration]</p>
 
 
-<p class="center">THE MACMILLAN COMPANY
-NEW YORK · BOSTON · CHICAGO
-ATLANTA · SAN FRANCISCO</p>
+<p class="center p2">THE MACMILLAN COMPANY<br>
+<span class="tp-small">NEW YORK · BOSTON · CHICAGO<br>
+ATLANTA · SAN FRANCISCO</span></p>
 
-<p class="center">MACMILLAN &amp; CO., <span class="smcap">Limited</span>
-LONDON · BOMBAY · CALCUTTA
-MELBOURNE</p>
+<p class="center p2">MACMILLAN &amp; CO., <span class="smcap">Limited</span><br>
+<span class="tp-small">LONDON · BOMBAY · CALCUTTA<br>
+MELBOURNE</span></p>
 
-<p class="center">THE MACMILLAN CO. OF CANADA, <span class="smcap">Ltd.</span>
-TORONTO</p>
+<p class="center p2">THE MACMILLAN CO. OF CANADA, <span class="smcap">Ltd.</span><br>
+<span class="tp-small">TORONTO</span></p>
 
 
 <p>[Illustration]</p>
@@ -329,24 +343,24 @@ TORONTO</p>
 <p><span class="pagenum" id="Page_iii">[Pg iii]</span></p>
 
 
-<p class="center">THE STORY OF THE GREAT LAKES</p>
+<h1>THE STORY OF THE GREAT LAKES</h1>
 
-<p class="center">BY</p>
+<p class="center p4">BY</p>
 
-<p class="center">EDWARD CHANNING</p>
+<p class="center tp-large">EDWARD CHANNING</p>
 
-<p class="center">PROFESSOR OF HISTORY IN HARVARD UNIVERSITY</p>
+<p class="center tp-small">PROFESSOR OF HISTORY IN HARVARD UNIVERSITY</p>
 
 <p class="center">AND</p>
 
-<p class="center">MARION FLORENCE LANSING</p>
+<p class="center tp-large">MARION FLORENCE LANSING</p>
 
-<p class="center">EDITOR OF THE “OPEN ROAD LIBRARY”</p>
+<p class="center tp-small">EDITOR OF THE “OPEN ROAD LIBRARY”</p>
 
-<p class="center"><i>WITH MAPS AND ILLUSTRATIONS</i></p>
+<p class="center p4"><i>WITH MAPS AND ILLUSTRATIONS</i></p>
 
-<p class="center">New York
-THE MACMILLAN COMPANY
+<p class="center p4"><span class="tp-large"><strong>New York</strong><br>
+THE MACMILLAN COMPANY</span><br>
 1909</p>
 
 <p class="center"><i>All rights reserved</i></p>
@@ -355,14 +369,14 @@ THE MACMILLAN COMPANY
 <p><span class="pagenum" id="Page_iv">[Pg iv]</span></p>
 
 
-<p class="center"><span class="smcap">Copyright, 1909,
+<p class="center p4"><span class="smcap tp-small">Copyright, 1909,<br>
 By</span> THE MACMILLAN COMPANY.</p>
+<hr class="r5">
+<p class="center tp-small">Set up and electrotyped. Published March, 1909.</p>
 
-<p class="center">Set up and electrotyped. Published March, 1909.</p>
 
-
-<p class="center"><i>Norwood Press
-J. S. Cushing Co.—Berwick &amp; Smith Co.
+<p class="center p4 tp-small"><i>Norwood Press<br>
+J. S. Cushing Co.—Berwick &amp; Smith Co.<br>
 Norwood, Mass., U.S.A.</i></p>
 
 
@@ -406,7 +420,7 @@ day.</p>
 
 <p>
   <span class="smcap">Cambridge, Massachusetts</span>,<br>
-  November, 1908.
+  <span class="padl3">November, 1908.</span>
 </p>
 
 
@@ -422,85 +436,176 @@ day.</p>
 </div>
 
 
-<pre>
-PART I
-
-<span class="smcap">Discovery and Exploration</span>
-
-CHAPTER      PAGE
-
-I. The Great Lakes      3
-
-II. Champlain on the Great Lakes, 1615–1616      10
-
-III. The Jesuit Mission to the Hurons, 1626–1650      25
-
-IV. The Pageant of Saint Lusson, 1671      39
-
-V. The Building of the <i>Griffon</i>, 1678–1679      49
-
-VI. La Salle on the Great Lakes, 1679       61
-
-VII. A Hapless French Governor, 1682–1684      73
-
-
-PART II
-
-<span class="smcap">The Struggle for Possession</span>
-
-VIII. The Founding of Detroit, 1701      87
-
-IX. Niagara and the Loss of Canada, 1759      101
-
-X. The Conspiracy of Pontiac, 1763–1764      113
-
-XI. The Adventures of a Trader, 1761–1764      135
-
-XII. Wayne’s Indian Campaign, 1794      151
-
-XIII. The Great Lakes in the War of 1812      165
-
-XIV. The Conquest of Lake Erie, 1813      179
-
-XV. General Lewis Cass and Reorganization 1813–1832      191
-
-XVI. The Black Hawk War, 1832      201
-
-<p><span class="pagenum" id="Page_viii">[Pg viii]</span></p>
-
-
-PART III
-
-<span class="smcap">Occupation and Development</span>
-
-XVII. Gateways of the Great Lakes, 1600–1900      217
-
-XVIII. The Story of a Road, 1600–1900      228
-
-XIX. Before and after the Turnpike, 1796–1811      242
-
-XX. The Erie Canal, 1825      251
-
-XXI. The Great Lakes in 1840      266
-
-XXII. The Coming of the Railroad to Lake Erie,
-1836–1853      283
-
-XXIII. Lincoln and Douglas in Chicago, 1858–1861      299
-
-XXIV. The Great Lakes in the Civil War, 1864      317
-
-XXV. Three Great Industries of the Lakes      330
-
-XXVI. Shipping on the Lakes      356
-
-XXVII. The Development of the City      374
-
-<span class="smcap">A Brief List of Books</span>      385
-
-<span class="smcap">Index</span>      393
-</pre>
-
+<table class="autotable">
+<tr>
+<td colspan="3" class="tdc tp-large"><a href="#PART_I">PART I</a></td>
+</tr>
+<tr>
+<td colspan="3" class="tdc smcap">Discovery and Exploration</td>
+</tr>
+<tr>
+<td class="tdr td-small">CHAPTER</td>
+<td></td>
+<td class="tdr td-small">PAGE</td>
+</tr>
+<tr>
+<td class="tdr">I.</td>
+<td class="tdl"><a href="#CHAPTER_I">The Great Lakes</a></td>
+<td class="tdr">3</td>
+</tr>
+<tr>
+<td class="tdr">II.</td>
+<td class="tdl"><a href="#CHAPTER_II">Champlain on the Great Lakes, 1615–1616</a></td>
+<td class="tdr">10</td>
+</tr>
+<tr>
+<td class="tdr">III.
+<td class="tdl"><a href="#CHAPTER_III">The Jesuit Mission to the Hurons, 1626–1650</a></td>
+<td class="tdr">25</td>
+</tr>
+<tr>
+<td class="tdr">IV.</td>
+<td class="tdl"><a href="#CHAPTER_IV">The Pageant of Saint Lusson, 1671</a></td>
+<td class="tdr">39</td>
+</tr>
+<tr>
+<td class="tdr">V.</td>
+<td class="tdl"><a href="#CHAPTER_V">The Building of the <i>Griffon</i>, 1678–1679</a></td>
+<td class="tdr">49</td>
+</tr>
+<tr>
+<td class="tdr">VI.</td>
+<td class="tdl"><a href="#CHAPTER_VI">La Salle on the Great Lakes, 1679</a></td>
+<td class="tdr">61</td>
+</tr>
+<tr>
+<td class="tdr">VII.</td>
+<td class="tdl"><a href="#CHAPTER_VII">A Hapless French Governor, 1682–1684</a></td>
+<td class="tdr">73</td>
+</tr>
+<tr><td colspan="3" class="td-spacer"></td></tr>
+<tr>
+<td colspan="3" class="tdc tp-large"><a href="#PART_II">PART II</a></td>
+</tr>
+<tr>
+<td colspan="3" class="tdc smcap">The Struggle for Possession</td>
+</tr>
+<tr>
+<td class="tdr">VIII.</td>
+<td class="tdl"><a href="#CHAPTER_VIII">The Founding of Detroit, 1701</a></td>
+<td class="tdr">87</td>
+</tr>
+<tr>
+<td class="tdr">IX.</td>
+<td class="tdl"><a href="#CHAPTER_IX">Niagara and the Loss of Canada, 1759</a></td>
+<td class="tdr">101</td>
+</tr>
+<tr>
+<td class="tdr">X.</td>
+<td class="tdl"><a href="#CHAPTER_X">The Conspiracy of Pontiac, 1763–1764</a></td>
+<td class="tdr">113</td>
+</tr>
+<tr>
+<td class="tdr">XI.</td>
+<td class="tdl"><a href="#CHAPTER_XI">The Adventures of a Trader, 1761–1764</a></td>
+<td class="tdr">135</td>
+</tr>
+<tr>
+<td class="tdr">XII.</td>
+<td class="tdl"><a href="#CHAPTER_XII">Wayne’s Indian Campaign, 1794</a></td>
+<td class="tdr">151</td>
+</tr>
+<tr>
+<td class="tdr">XIII.</td>
+<td class="tdl"><a href="#CHAPTER_XIII">The Great Lakes in the War of 1812</a></td>
+<td class="tdr">165</td>
+</tr>
+<tr>
+<td class="tdr">XIV.</td>
+<td class="tdl"><a href="#CHAPTER_XIV">The Conquest of Lake Erie, 1813</a></td>
+<td class="tdr">179</td>
+</tr>
+<tr>
+<td class="tdr">XV.</td>
+<td class="tdl"><a href="#CHAPTER_XV">General Lewis Cass and Reorganization 1813–1832</a></td>
+<td class="tdr">191</td>
+</tr>
+<tr>
+<td class="tdr">XVI.</td>
+<td class="tdl"><a href="#CHAPTER_XVI">The Black Hawk War, 1832</a></td>
+<td class="tdr">201</td>
+</tr>
+<tr><td colspan="3" class="td-spacer"></td></tr>
+<tr>
+<td colspan="3" class="tdc tp-large"><a href="#PART_III">PART III</a><span class="pagenum" id="Page_viii">[Pg viii]</span></td>
+</tr>
+<tr>
+<td colspan="3" class="tdc smcap">Occupation and Development</td>
+</tr>
+<tr>
+<td class="tdr">XVII.</td>
+<td class="tdl"><a href="#CHAPTER_XVII">Gateways of the Great Lakes, 1600–1900</a></td>
+<td class="tdr">217</td>
+</tr>
+<tr>
+<td class="tdr">XVIII.</td>
+<td class="tdl"><a href="#CHAPTER_XVIII">The Story of a Road, 1600–1900</a></td>
+<td class="tdr">228</td>
+</tr>
+<tr>
+<td class="tdr">XIX.</td>
+<td class="tdl"><a href="#CHAPTER_XIX">Before and after the Turnpike, 1796–1811</a></td>
+<td class="tdr">242</td>
+</tr>
+<tr>
+<td class="tdr">XX.</td>
+<td class="tdl"><a href="#CHAPTER_XX">The Erie Canal, 1825</a></td>
+<td class="tdr">251</td>
+</tr>
+<tr>
+<td class="tdr">XXI.</td>
+<td class="tdl"><a href="#CHAPTER_XXI">The Great Lakes in 1840</a></td>
+<td class="tdr">266</td>
+</tr>
+<tr>
+<td class="tdr">XXII.</td>
+<td class="tdl"><a href="#CHAPTER_XXII">The Coming of the Railroad to Lake Erie, 1836–1853</a></td>
+<td class="tdr">283</td>
+</tr>
+<tr>
+<td class="tdr">XXIII.</td>
+<td class="tdl"><a href="#CHAPTER_XXIII">Lincoln and Douglas in Chicago, 1858–1861</a></td>
+<td class="tdr">299</td>
+</tr>
+<tr>
+<td class="tdr">XXIV.</td>
+<td class="tdl"><a href="#CHAPTER_XXIV">The Great Lakes in the Civil War, 1864</a></td>
+<td class="tdr">317</td>
+</tr>
+<tr>
+<td class="tdr">XXV.</td>
+<td class="tdl"><a href="#CHAPTER_XXV">Three Great Industries of the Lakes</a></td>
+<td class="tdr">330</td>
+</tr>
+<tr>
+<td class="tdr">XXVI.</td>
+<td class="tdl"><a href="#CHAPTER_XXVI">Shipping on the Lakes</a></td>
+<td class="tdr">356</td>
+</tr>
+<tr>
+<td class="tdr">XXVII.</td>
+<td class="tdl"><a href="#CHAPTER_XXVII">The Development of the City</a></td>
+<td class="tdr">374</td>
+</tr>
+<tr>
+<td colspan="2" class="tdl smcap"><a href="#A_BRIEF_LIST_OF_BOOKS">A Brief List of Books</a></td>
+<td class="tdr">385</td>
+</tr>
+<tr>
+<td colspan="2" class="tdl smcap"><a href="#INDEX">Index</a></td>
+<td class="tdr">393</td>
+</tr>
+</table>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
@@ -513,50 +618,91 @@ XXVII. The Development of the City      374
   </h2>
 </div>
 
-
-<pre>
-MAPS
-      PAGE
-
-Huron—Erie—Ontario      12
-
-From Lake Michigan to the Mississippi      202
-
-Gateways of the Lakes      223
-
-By Trail and Turnpike to Lake Erie      232
-
-By Canal and Railroad to Lake Erie      284
-
-
-ILLUSTRATIONS
-
-La Salle      <i>Frontispiece</i>
-
-The “Soo” Canal      <i>facing page</i>      8
-
-Niagara Falls as sketched by Hennepin      ”      52
-
-La Barre and Grangula      ”      76
-
-A View of Niagara Fort      ”      104
-
-Black Hawk      ”      204
-
-Through the Locks at Lockport      ”      256
-
-Chicago in 1831      ”      278
-
-An Early Lake Superior Copper Mine      ”      348
-
-Iron Ore at a Lake Superior Port      ”      352
-
-The Old and the New, General Cass’s Canoe
-and a Modern Freight Steamer      ”      360
-
-Grain Elevator and Lumber Jam      ”      370
-</pre>
-
+<table class="autotable">
+<tr><td colspan="3" class="tdc tp-large">MAPS</td></tr>
+<tr><td colspan="2"></td><td class="tdr td-small">PAGE</td></tr>
+<tr>
+<td class="tdl" colspan="2">Huron—Erie—Ontario</td>
+<td class="tdr">12</td>
+</tr>
+<tr>
+<td class="tdl" colspan="2">From Lake Michigan to the Mississippi</td>
+<td class="tdr">202</td>
+</tr>
+<tr>
+<td class="tdl" colspan="2">Gateways of the Lakes</td>
+<td class="tdr">223</td>
+</tr>
+<tr>
+<td class="tdl" colspan="2">By Trail and Turnpike to Lake Erie</td>
+<td class="tdr">232</td>
+</tr>
+<tr>
+<td class="tdl" colspan="2">By Canal and Railroad to Lake Erie</td>
+<td class="tdr">284</td>
+</tr>
+<tr><td colspan="3" class="td-spacer"></td></tr>
+<tr><td colspan="3" class="tdc tp-large">ILLUSTRATIONS</td></tr>
+<tr>
+<td class="tdl">La Salle</td>
+<td class="tdr" colspan="2"><i>Frontispiece</i></td>
+</tr>
+<tr>
+<td class="tdl">The “Soo” Canal</td>
+<td class="tdc"><i>facing page</i></td>
+<td class="tdr">8</td>
+</tr>
+<tr>
+<td class="tdl">Niagara Falls as sketched by Hennepin</td>
+<td class="tdc">”</td>
+<td class="tdr">52</td>
+</tr>
+<tr>
+<td class="tdl">La Barre and Grangula</td>
+<td class="tdc">”</td>
+<td class="tdr">76</td>
+</tr>
+<tr>
+<td class="tdl">A View of Niagara Fort</td>
+<td class="tdc">”</td>
+<td class="tdr">104</td>
+</tr>
+<tr>
+<td class="tdl">Black Hawk</td>
+<td class="tdc">”</td>
+<td class="tdr">204</td>
+</tr>
+<tr>
+<td class="tdl">Through the Locks at Lockport</td>
+<td class="tdc">”</td>
+<td class="tdr">256</td>
+</tr>
+<tr>
+<td class="tdl">Chicago in 1831</td>
+<td class="tdc">”</td>
+<td class="tdr">278</td>
+</tr>
+<tr>
+<td class="tdl">An Early Lake Superior Copper Mine</td>
+<td class="tdc">”</td>
+<td class="tdr">348</td>
+</tr>
+<tr>
+<td class="tdl">Iron Ore at a Lake Superior Port</td>
+<td class="tdc">”</td>
+<td class="tdr">352</td>
+</tr>
+<tr>
+<td class="tdl">The Old and the New, General Cass’s Canoe and a Modern Freight Steamer</td>
+<td class="tdc">”</td>
+<td class="tdr">360</td>
+</tr>
+<tr>
+<td class="tdl">Grain Elevator and Lumber Jam</td>
+<td class="tdc">”</td>
+<td class="tdr">370</td>
+</tr>
+</table>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
@@ -569,7 +715,7 @@ Grain Elevator and Lumber Jam      ”      370
     <br>
     DISCOVERY AND EXPLORATION
 
-<p><span class="pagenum"><a id="Page_2"></a><a id="Page_3"></a>[Pg 3]</span></p>
+<span class="pagenum"><a id="Page_2"></a><a id="Page_3"></a>[Pg 3]</span>
   </h2>
 </div>
 
@@ -579,7 +725,7 @@ Grain Elevator and Lumber Jam      ”      370
   <h2 class="nobreak" id="CHAPTER_I">
     CHAPTER I
     <br>
-    THE GREAT LAKES
+    <span class="chap-subhead">THE GREAT LAKES</span>
   </h2>
 </div>
 
@@ -763,7 +909,7 @@ wonderful what changes a century has witnessed.</p>
   <h2 class="nobreak" id="CHAPTER_II">
     CHAPTER II
     <br>
-    CHAMPLAIN ON THE GREAT LAKES
+    <span class="chap-subhead">CHAMPLAIN ON THE GREAT LAKES</span>
   </h2>
 </div>
 
@@ -1162,7 +1308,7 @@ the exploration and settlement of the wilderness.</p>
   <h2 class="nobreak" id="CHAPTER_III">
     CHAPTER III
     <br>
-    THE JESUIT MISSION TO THE HURONS
+    <span class="chap-subhead">THE JESUIT MISSION TO THE HURONS</span>
   </h2>
 </div>
 
@@ -1535,7 +1681,7 @@ Nations.</p>
   <h2 class="nobreak" id="CHAPTER_IV">
     CHAPTER IV
     <br>
-    THE PAGEANT OF SAINT LUSSON
+    <span class="chap-subhead">THE PAGEANT OF SAINT LUSSON</span>
   </h2>
 </div>
 
@@ -1645,7 +1791,13 @@ church:—</p>
     <div class="stanza">
       <div class="verse indent0">“The royal banners forward go,</div>
       <div class="verse indent1">The Cross shines forth in mystic glow:</div>
-<span class="pagenum" id="Page_43">[Pg 43]</span>      <div class="verse indent5">*   *   *   *</div>
+<span class="pagenum" id="Page_43">[Pg 43]</span>
+      <div class="verse">
+        <span class="padl2">*</span>
+        <span class="padl2">*</span>
+        <span class="padl2">*</span>
+        <span class="padl2">*</span>
+      </div>
       <div class="verse indent1">Fulfilled is all that David told,</div>
       <div class="verse indent1">In true prophetic song of old;</div>
       <div class="verse indent1">How God the heathen’s King should be,</div>
@@ -1803,7 +1955,7 @@ had been singled out as a strategic spot.</p>
   <h2 class="nobreak" id="CHAPTER_V">
     CHAPTER V
     <br>
-    THE BUILDING OF THE <i>GRIFFON</i>
+    <span class="chap-subhead">THE BUILDING OF THE <i>GRIFFON</i></span>
   </h2>
 </div>
 
@@ -2134,7 +2286,7 @@ admiration for the French.</p>
   <h2 class="nobreak" id="CHAPTER_VI">
     CHAPTER VI
     <br>
-    LA SALLE ON THE GREAT LAKES
+    <span class="chap-subhead">LA SALLE ON THE GREAT LAKES</span>
   </h2>
 </div>
 
@@ -2447,7 +2599,7 @@ lakes.”</p>
   <h2 class="nobreak" id="CHAPTER_VII">
     CHAPTER VII
     <br>
-    A HAPLESS FRENCH GOVERNOR
+    <span class="chap-subhead">A HAPLESS FRENCH GOVERNOR</span>
   </h2>
 </div>
 
@@ -2789,7 +2941,7 @@ the poor man could do no more than he did.”</p>
     <br>
     THE STRUGGLE FOR POSSESSION
 
-<p><span class="pagenum"><a id="Page_86"></a><a id="Page_87"></a>[Pg 87]</span></p>
+<span class="pagenum"><a id="Page_86"></a><a id="Page_87"></a>[Pg 87]</span>
   </h2>
 </div>
 
@@ -2799,7 +2951,7 @@ the poor man could do no more than he did.”</p>
   <h2 class="nobreak" id="CHAPTER_VIII">
     CHAPTER VIII
     <br>
-    THE FOUNDING OF DETROIT
+    <span class="chap-subhead">THE FOUNDING OF DETROIT</span>
   </h2>
 </div>
 
@@ -3187,7 +3339,7 @@ plant and develop a home.</p>
   <h2 class="nobreak" id="CHAPTER_IX">
     CHAPTER IX
     <br>
-    NIAGARA AND THE LOSS OF CANADA
+    <span class="chap-subhead">NIAGARA AND THE LOSS OF CANADA</span>
   </h2>
 </div>
 
@@ -3515,7 +3667,7 @@ posts on the Great Lakes.</p>
   <h2 class="nobreak" id="CHAPTER_X">
     CHAPTER X
     <br>
-    THE CONSPIRACY OF PONTIAC
+    <span class="chap-subhead">THE CONSPIRACY OF PONTIAC</span>
   </h2>
 </div>
 
@@ -4100,26 +4252,17 @@ and the death of Pontiac was avenged among his
 people by a period of universal tribal war.</p>
 
 
-<p><i>Chronology of the Ending of French Rule</i></p>
+<p class="center p2"><i>Chronology of the Ending of French Rule</i></p>
 
-<p>
-  1759. Capture of Quebec and Niagara.<br>
-  <br>
-  1760. Capture of Montreal and surrender of Canada.<br>
-  <br>
-  <span style="margin-left: 3.0em;">Taking possession of Detroit.</span><br>
-  <br>
-  1763. Pontiac’s attack, and the fall of the other posts of the<br>
-  <span style="margin-left: 3.0em;">western lakes.</span><br>
-  <br>
-  <span style="margin-left: 3.0em;">Treaty of Peace.</span><br>
-  <br>
-  1764. Sir William Johnson’s conference at Niagara.<br>
-  <br>
-  <span style="margin-left: 3.0em;">Bradstreet’s expedition up Lake Erie, and the close of</span><br>
-  <span style="margin-left: 3.0em;">the blockade of Detroit.</span>
-</p>
-
+<table class="autotable">
+<tr><td class="tdt">1759.</td><td>Capture of Quebec and Niagara.</td></tr>
+<tr><td rowspan="2" class="tdt">1760.</td><td>Capture of Montreal and surrender of Canada.</td></tr>
+<tr><td>Taking possession of Detroit.</td></tr>
+<tr><td rowspan="2" class="tdt">1763.</td><td>Pontiac’s attack, and the fall of the other posts of the western lakes.</td></tr>
+<tr><td>Treaty of Peace.</td></tr>
+<tr><td rowspan="2" class="tdt">1764.</td><td>Sir William Johnson’s conference at Niagara.</td></tr>
+<tr><td>Bradstreet’s expedition up Lake Erie, and the close of the blockade of Detroit.</td></tr>
+</table>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
@@ -4130,7 +4273,7 @@ people by a period of universal tribal war.</p>
   <h2 class="nobreak" id="CHAPTER_XI">
     CHAPTER XI
     <br>
-    THE ADVENTURES OF A TRADER
+    <span class="chap-subhead">THE ADVENTURES OF A TRADER</span>
   </h2>
 </div>
 
@@ -4554,7 +4697,7 @@ soldiers.</p>
   <h2 class="nobreak" id="CHAPTER_XII">
     CHAPTER XII
     <br>
-    WAYNE’S INDIAN CAMPAIGN
+    <span class="chap-subhead">WAYNE’S INDIAN CAMPAIGN</span>
   </h2>
 </div>
 
@@ -4937,7 +5080,7 @@ possible.</p>
   <h2 class="nobreak" id="CHAPTER_XIII">
     CHAPTER XIII
     <br>
-    THE GREAT LAKES IN THE WAR OF 1812
+    <span class="chap-subhead">THE GREAT LAKES IN THE WAR OF 1812</span>
   </h2>
 </div>
 
@@ -5306,7 +5449,7 @@ uncertain.</p>
   <h2 class="nobreak" id="CHAPTER_XIV">
     CHAPTER XIV
     <br>
-    THE CONQUEST OF LAKE ERIE
+    <span class="chap-subhead">THE CONQUEST OF LAKE ERIE</span>
   </h2>
 </div>
 
@@ -5617,7 +5760,7 @@ peace.</p>
   <h2 class="nobreak" id="CHAPTER_XV">
     CHAPTER XV
     <br>
-    GENERAL LEWIS CASS AND REORGANIZATION
+    <span class="chap-subhead">GENERAL LEWIS CASS AND REORGANIZATION</span>
   </h2>
 </div>
 
@@ -5893,7 +6036,7 @@ the respect of all.</p>
   <h2 class="nobreak" id="CHAPTER_XVI">
     CHAPTER XVI
     <br>
-    THE BLACK HAWK WAR
+    <span class="chap-subhead">THE BLACK HAWK WAR</span>
   </h2>
 </div>
 
@@ -6278,7 +6421,7 @@ had been Americanized.</p>
     <br>
     OCCUPATION AND DEVELOPMENT
 
-<p><span class="pagenum"><a id="Page_216"></a><a id="Page_217"></a>[Pg 217]</span></p>
+<span class="pagenum"><a id="Page_216"></a><a id="Page_217"></a>[Pg 217]</span>
   </h2>
 </div>
 
@@ -6288,7 +6431,7 @@ had been Americanized.</p>
   <h2 class="nobreak" id="CHAPTER_XVII">
     CHAPTER XVII
     <br>
-    GATEWAYS OF THE GREAT LAKES
+    <span class="chap-subhead">GATEWAYS OF THE GREAT LAKES</span>
   </h2>
 </div>
 
@@ -6581,7 +6724,7 @@ America.</p>
   <h2 class="nobreak" id="CHAPTER_XVIII">
     CHAPTER XVIII
     <br>
-    THE STORY OF A ROAD
+    <span class="chap-subhead">THE STORY OF A ROAD</span>
   </h2>
 </div>
 
@@ -6788,27 +6931,60 @@ but as part of our historic road it is of
 special interest.</p>
 
 
-<p><i>Table of Tolls of Rochester Turnpike Company,
+<p class="center"><i>Table of Tolls of Rochester Turnpike Company,<br>
 March 31, 1813</i></p>
 
-<p>
-  <span style="margin-left: 28.5em;"><span class="smcap">Cents</span></span><br>
-  For every cart, wagon, or other wheeled carriage, drawn<br>
-  <span style="margin-left: 1.0em;">by 2 horses, mules, or oxen                            12-1/2</span><br>
-  And for each additional horse, mule, or ox                6<br>
-  For every cart, wagon, or other two-wheeled carriage<br>
-  <span style="margin-left: 1.0em;">drawn by 1 horse or mule                                9</span><br>
-<span class="pagenum" id="Page_236">[Pg 236]</span>  For every horse rode, led, or driven                      6<br>
-  For every four-wheeled pleasure carriage or wagon<br>
-  <span style="margin-left: 1.0em;">drawn by 2 horses                                      25</span><br>
-  And for each additional horse                             6<br>
-  For every sleigh or sled drawn by 1 horse, mule, or ox    6<br>
-  And for every additional horse, mule, or ox               6<br>
-  For every score of horses, mules, or cattle              20<br>
-  And in like proportion for a greater or less number<br>
-  For every score of sheep or hogs                          8<br>
-  And in like proportion for a greater or less number
-</p>
+<table class="autotable">
+<tr>
+<td class="tdr smcap tp-small" colspan="2">Cents</td>
+</tr>
+<tr>
+<td class="tdl">For every cart, wagon, or other wheeled carriage, drawn by 2 horses, mules, or oxen</td>
+<td class="tdr">12-1/2</td>
+</tr>
+<tr>
+<td class="tdl">And for each additional horse, mule, or ox</td>
+<td class="tdr">6</td>
+</tr>
+<tr>
+<td class="tdl">For every cart, wagon, or other two-wheeled carriage drawn by 1 horse or mule</td>
+<td class="tdr">9</td>
+</tr>
+<tr>
+<td class="tdl"><span class="pagenum" id="Page_236">[Pg 236]</span>For every horse rode, led, or driven</td>
+<td class="tdr">6</td>
+</tr>
+<tr>
+<td class="tdl">For every four-wheeled pleasure carriage or wagon drawn by 2 horses</td>
+<td class="tdr">25</td>
+</tr>
+<tr>
+<td class="tdl">And for each additional horse</td>
+<td class="tdr">6</td>
+</tr>
+<tr>
+<td class="tdl">For every sleigh or sled drawn by 1 horse, mule, or ox</td>
+<td class="tdr">6</td>
+</tr>
+<tr>
+<td class="tdl">And for every additional horse, mule, or ox</td>
+<td class="tdr">6</td>
+</tr>
+<tr>
+<td class="tdl">For every score of horses, mules, or cattle</td>
+<td class="tdr">20</td>
+</tr>
+<tr>
+<td class="tdl" colspan="2">And in like proportion for a greater or less number</td>
+</tr>
+<tr>
+<td class="tdl">For every score of sheep or hogs</td>
+<td class="tdr">8</td>
+</tr>
+<tr>
+<td class="tdl" colspan="2">And in like proportion for a greater or less number</td>
+</tr>
+</table>
 
 <p>In the next chapter the experiences of two
 travellers are given, the first in 1796, the second
@@ -6970,7 +7146,7 @@ and rapid advance.</p>
   <h2 class="nobreak" id="CHAPTER_XIX">
     CHAPTER XIX
     <br>
-    BEFORE AND AFTER THE TURNPIKE
+    <span class="chap-subhead">BEFORE AND AFTER THE TURNPIKE</span>
   </h2>
 </div>
 
@@ -7206,7 +7382,7 @@ thriving towns and cities.</p>
   <h2 class="nobreak" id="CHAPTER_XX">
     CHAPTER XX
     <br>
-    THE ERIE CANAL
+    <span class="chap-subhead">THE ERIE CANAL</span>
   </h2>
 </div>
 
@@ -7610,7 +7786,7 @@ transportation.</p>
   <h2 class="nobreak" id="CHAPTER_XXI">
     CHAPTER XXI
     <br>
-    THE GREAT LAKES IN 1840
+    <span class="chap-subhead">THE GREAT LAKES IN 1840</span>
   </h2>
 </div>
 
@@ -8078,7 +8254,7 @@ to come.</p>
   <h2 class="nobreak" id="CHAPTER_XXII">
     CHAPTER XXII
     <br>
-    THE COMING OF THE RAILROAD TO LAKE ERIE
+    <span class="chap-subhead">THE COMING OF THE RAILROAD TO LAKE ERIE</span>
   </h2>
 </div>
 
@@ -8510,7 +8686,7 @@ our transcontinental lines had begun.</p>
   <h2 class="nobreak" id="CHAPTER_XXIII">
     CHAPTER XXIII
     <br>
-    LINCOLN AND DOUGLAS IN CHICAGO
+    <span class="chap-subhead">LINCOLN AND DOUGLAS IN CHICAGO</span>
   </h2>
 </div>
 
@@ -9002,7 +9178,7 @@ the nation mourned him as a true patriot.</p>
   <h2 class="nobreak" id="CHAPTER_XXIV">
     CHAPTER XXIV
     <br>
-    THE GREAT LAKES IN THE CIVIL WAR
+    <span class="chap-subhead">THE GREAT LAKES IN THE CIVIL WAR</span>
   </h2>
 </div>
 
@@ -9360,7 +9536,7 @@ the property was sold, and the buildings torn down.</p>
   <h2 class="nobreak" id="CHAPTER_XXV">
     CHAPTER XXV
     <br>
-    THREE GREAT INDUSTRIES OF THE LAKES
+    <span class="chap-subhead">THREE GREAT INDUSTRIES OF THE LAKES</span>
   </h2>
 </div>
 
@@ -9533,57 +9709,124 @@ among the various lake posts is shown
 in the following table:—</p>
 
 
-<p><i>Statement concerning Trade at Detroit and Other Posts</i></p>
+<p class="center p2"><i>Statement concerning Trade at Detroit and Other Posts</i></p>
 
-<p>
-  <span style="margin-left: 23.5em;"><span class="smcap">Pounds</span></span><br>
-  The whole Country &amp; Posts below Montreal         30,000<br>
-  The Grand River, the North Side of the Lakes<br>
-  <span style="margin-left: 1.0em;">Ontario, Huron, &amp; Superior                     30,000</span><br>
-  In the Country generally called the North<br>
-  <span style="margin-left: 1.0em;">West                                           40,000</span><br>
-  In the Countries to the Southward of the<br>
-  <span style="margin-left: 1.0em;">Lakes, the Trade of which is principally</span><br>
-  <span style="margin-left: 1.0em;">brought to the posts of Detroit and Michillimackinac,</span><br>
-  <span style="margin-left: 1.0em;">there being very little Indian</span><br>
-  <span style="margin-left: 1.0em;">Trade at Niagara                              100,000</span><br>
-  ———————————————————————————-<br>
-  As above                                       £200,000
-</p>
+<table class="autotable">
+<tr>
+<td class="tdr td-small" colspan="2"><span class="smcap">Pounds</span></td>
+</tr>
+<tr>
+<td class="tdl">The whole Country &amp; Posts below Montreal</td>
+<td class="tdr tdb">30,000</td>
+</tr>
+<tr>
+<td class="tdl">The Grand River, the North Side of the Lakes Ontario, Huron, &amp; Superior</td>
+<td class="tdr tdb">30,000</td>
+</tr>
+<tr>
+<td class="tdl">In the Country generally called the North West</td>
+<td class="tdr tdb">40,000</td>
+</tr>
+<tr class="bb">
+<td class="tdl">In the Countries to the Southward of the Lakes, the Trade of which is principally brought to the posts of Detroit and Michillimackinac, there being very little Indian Trade at Niagara</td>
+<td class="tdr tdb">100,000</td>
+</tr>
+<tr>
+<td class="tdl">As above</td>
+<td class="tdr tdb">£200,000</td>
+</tr>
+</table>
 
-<p>Dividing this general estimate into smaller districts,
+<p class="p2">Dividing this general estimate into smaller districts,
 the estimate was as follows:—</p>
 
 <p><span class="pagenum" id="Page_337">[Pg 337]</span></p>
 
-<p>
-  In the District of the Garrison of Detroit     <span class="smcap">Packs</span><br>
-  <span style="margin-left: 1.0em;">The Fort of Detroit, Sagana &amp; the South</span><br>
-  <span style="margin-left: 2.0em;">Side of Lake Huron                          1000</span><br>
-  <span style="margin-left: 1.0em;">Miamis &amp; Wabash Country                       2000</span><br>
-  <span style="margin-left: 1.0em;">Sandusky                                       400</span><br>
-  —————————————————————————————-<br>
-  <span style="margin-left: 22.0em;">Say 3400 packs of</span><br>
-  <span style="margin-left: 1.0em;">Furrs estimated at 12£ each is                      £40,800</span>
-</p>
+<table class="autotable">
+<tr>
+<td class="tdl">In the District of the Garrison of Detroit</td>
+<td class="tdr"><span class="smcap">Packs</span></td>
+<td></td>
+</tr>
+<tr>
+<td class="tdl"><span class="tdlp">The Fort of Detroit, Sagana &amp; the South Side of Lake Huron</span></td>
+<td class="tdr">1000</td>
+<td></td>
+</tr>
+<tr>
+<td class="tdl"><span class="tdlp">Miamis &amp; Wabash Country</span></td>
+<td class="tdr">2000</td>
+<td></td>
+</tr>
+<tr class="bb">
+<td class="tdl"><span class="tdlp">Sandusky</span></td>
+<td class="tdr">400</td>
+<td></td>
+</tr>
+<tr>
+<td class="tdr">Say</td>
+<td class="tdr">3400</td>
+<td class="tdl">packs of</td>
+</tr>
+<tr>
+<td class="tdl" colspan="2"><span class="tdlp">Furrs estimated at 12£ each is</span></td>
+<td class="tdl"><span class="tdlp">£40,800</span></td>
+</tr>
+</table>
 
-<p>
-  In the District of Michillimackinac:<br>
-  <span style="margin-left: 1.0em;">On Lake Michigan                            <span class="smcap">Packs</span></span><br>
-  <span style="margin-left: 2.0em;">The Grand River                            100</span><br>
-  <span style="margin-left: 2.0em;">St. Josephs                                300</span><br>
-  <span style="margin-left: 2.0em;">Checago                                    100</span><br>
-  <span style="margin-left: 2.0em;">Milwaki                                    120</span><br>
-  <span style="margin-left: 1.0em;">La Bay or Green Bay, including the upper</span><br>
-  <span style="margin-left: 2.5em;">ports of the Mississippi, the South Side</span><br>
-  <span style="margin-left: 2.5em;">of Lake Superior                          300</span><br>
-  <span style="margin-left: 2.0em;">The Illinois Country                       600</span><br>
-  ——————————————————————————————-<br>
-  <span style="margin-left: 21.0em;">Say 3220 packs of</span><br>
-  <span style="margin-left: 1.0em;">Furrs estimated at £20 each                         £60,400</span><br>
-  ——————————————————————————————-<br>
-  <span style="margin-left: 1.0em;">Total of the two Districts                         £101,200</span>
-</p>
+<table class="autotable p2">
+<tr>
+<td class="tdl" colspan="3">In the District of Michillimackinac:</td>
+</tr>
+<tr>
+<td class="tdl"><span class="tdlp">On Lake Michigan</span></td>
+<td class="tdr"><span class="smcap">Packs</span></td>
+<td></td>
+</tr>
+<tr>
+<td class="tdl"><span class="tdlp2">The Grand River</span></td>
+<td class="tdr tdb">100</td>
+<td></td>
+</tr>
+<tr>
+<td class="tdl"><span class="tdlp2">St. Josephs</span></td>
+<td class="tdr tdb">300</td>
+<td></td>
+</tr>
+<tr>
+<td class="tdl"><span class="tdlp2">Checago</span></td>
+<td class="tdr tdb">100</td>
+<td></td>
+</tr>
+<tr>
+<td class="tdl"><span class="tdlp2">Milwaki</span></td>
+<td class="tdr tdb">120</td>
+<td></td>
+</tr>
+<tr>
+<td class="tdl"><span class="tdlp">La Bay or Green Bay, including the upper ports of the Mississippi, the South Side of Lake Superior</span></td>
+<td class="tdr tdb">300</td>
+<td></td>
+</tr>
+<tr class="bb">
+<td class="tdl"><span class="tdlp2">The Illinois Country</span></td>
+<td class="tdr tdb">600</td>
+<td></td>
+</tr>
+<tr>
+<td class="tdr">Say</td>
+<td class="tdr">3220</td>
+<td class="tdl">packs of</td>
+</tr>
+<tr class="bb">
+<td class="tdl" colspan="2"><span class="tdlp">Furrs estimated at £20 each</span></td>
+<td class="tdl"><span class="tdlp">£60,400</span></td>
+</tr>
+<tr>
+<td class="tdl" colspan="2"><span class="tdlp">Total of the two Districts</span></td>
+<td class="tdl"><span class="tdlp">£101,200</span></td>
+</tr>
+</table>
 
 <p>This estimate was sent to the colonial office to
 show that if the lake posts were ceded to America,
@@ -10085,7 +10328,7 @@ possessed them.</p>
   <h2 class="nobreak" id="CHAPTER_XXVI">
     CHAPTER XXVI
     <br>
-    SHIPPING ON THE LAKES
+    <span class="chap-subhead">SHIPPING ON THE LAKES</span>
   </h2>
 </div>
 
@@ -10593,7 +10836,7 @@ complete.</p>
   <h2 class="nobreak" id="CHAPTER_XXVII">
     CHAPTER XXVII
     <br>
-    THE DEVELOPMENT OF THE CITY
+    <span class="chap-subhead">THE DEVELOPMENT OF THE CITY</span>
   </h2>
 </div>
 
@@ -10869,7 +11112,7 @@ future of the Nation.</p>
 </div>
 
 
-<p><i>General Works</i></p>
+<h3 id="GENERAL_WORKS"><i>General Works</i></h3>
 
 <p>There is no important general work covering the entire field.
 The best single book is Charles Moore’s <i>The Northwest under
@@ -10888,7 +11131,7 @@ societies of the lake states, especially the Buffalo, Michigan,
 Wisconsin, and Minnesota collections.</p>
 
 
-<p><span class="smcap">Part I.</span> <i>Discovery and Exploration, 1615–1700</i></p>
+<h3 id="PART_I_DISCOVERY_AND_EXPLORATION_1615_1700"><span class="smcap">Part I.</span> <i>Discovery and Exploration, 1615–1700</i></h3>
 
 <p>This period is taken up in Parkman’s <i>Pioneers of France in
 the New World</i>, <i>The Jesuits in North America</i>, <i>La Salle and
@@ -10919,7 +11162,7 @@ and in Father Claude Dablon’s account in the <i>Jesuit Relations</i>,
 lv, 105–115.</p>
 
 
-<p><span class="smcap">Part II.</span> <i>The Struggle for Possession, 1700–1832</i></p>
+<h3 id="PART_II_THE_STRUGGLE_FOR_POSSESSION_1700_1832"><span class="smcap">Part II.</span> <i>The Struggle for Possession, 1700–1832</i></h3>
 
 <p>For the struggle between France and England Parkman’s
 <i>Half Century of Conflict</i> (2 vols.), <i>Montcalm and Wolfe</i>
@@ -10978,7 +11221,7 @@ Series. John R. Spears is the author of a biography of
 <i>Anthony Wayne</i>, 1903.</p>
 
 
-<p><span class="smcap">Part III.</span> <i>Occupation and Development</i></p>
+<h3 id="PART_III_OCCUPATION_AND_DEVELOPMENT"><span class="smcap">Part III.</span> <i>Occupation and Development</i></h3>
 
 <p>The bibliography of this section would include all that has
 come before, and much from pamphlets, historical society publications,
@@ -11030,7 +11273,7 @@ described in <i>The Character and Influence of the Indian Trade
 in Wisconsin</i>, Johns Hopkins Studies, Vol. IX.</p>
 
 
-<p><i>Gazetteers and Travels</i></p>
+<h3 id="GAZETTEERS_AND_TRAVELS"><i>Gazetteers and Travels</i></h3>
 
 <p>In the numerous guide-books and records of travellers of the
 past one hundred and twenty-five years is written most vividly
