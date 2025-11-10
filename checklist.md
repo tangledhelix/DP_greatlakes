@@ -286,7 +286,7 @@ References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p134
 * [x] Remove the [Generated TOC](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/HTML_Menu#Generated_TOC) if it is not needed.
 * [x] If `A.M.` `P.M.` or similar abbreviations were used and have spaces, insert `&nbsp;` to avoid undesirable mid-abbreviation line wraps.
 * [x] If superscripts were used, convert to `<sup>`
-* [ ] Semantic fixup for italics
+* [x] Semantic fixup for italics
   * NOTE: Try the Regex Library tool and make a custom italic_semantic.json file
   * (Note: `lang="xx"` can be used on **any** HTML tag including `cite`, `em`, ...)
   * Search `<i>((.|\n)+?)</i>`
