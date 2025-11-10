@@ -294,7 +294,7 @@ References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p134
   * Replace (citation) `<cite>\1</cite>`
   * Replace ([languages](http://www.w3schools.com/tags/ref_language_codes.asp)) `<i lang="fr">\1</i>`
   * Leave other cases as `<i>..</i>`
-* [ ] Add `abbr` tags if appropriate. ([Reference](https://www.pgdp.net/wiki/Accessibility_Recipes/Abbreviations))
+* [x] Add `abbr` tags if appropriate. ([Reference](https://www.pgdp.net/wiki/Accessibility_Recipes/Abbreviations))
 
 ### Fractions
 For consistency the superscript/subscript form of fractions might be best (e.g. the 3-character ¹⁄₂ vs. single-character ½). A few fractions have a single character form but most do not. And fractions like 5/16 have no 3-char form even, you need 4 ...
@@ -303,7 +303,7 @@ Guiguts has fraction conversion tools: Tools → Convert Fractions
 
 This regex: `([¹²³⁴⁵⁶⁷⁸⁹⁰]+⁄[₁₂₃₄₅₆₇₈₉₀]+)` may be of use to locate fractions once converted.
 
-* [ ] Handle any fractions
+* [x] Handle any fractions
 
 ### Process Hi-resolution Images
 If the project manager provided high-resolution scans of the images in the text, use an image processing program such as GIMP or Adobe Photoshop Elements to optimize them—see [Guide to Image Processing](https://www.pgdp.net/wiki/Guide_to_Image_Processing). You can do this before, during, or after HTML conversion.
