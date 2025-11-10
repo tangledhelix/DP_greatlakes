@@ -1,7 +1,7 @@
 {
-  "md5checksum": "c71a41b3a86c09b19adaa6c94cad42f6",
-  "insertpos": "12248.0",
-  "insertpospeer": "317.46",
+  "md5checksum": "5835b08c255aa5c7bf04b0174cd6d360",
+  "insertpos": "11748.20",
+  "insertpospeer": "12054.37",
   "pagedetails": {
     "f001": {
       "index": "326.0",
@@ -2566,91 +2566,91 @@
       "label": "Pg 393"
     },
     "p393_2": {
-      "index": "11424.0",
+      "index": "11428.43",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "p394_1": {
-      "index": "11478.0",
+      "index": "11487.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 394"
     },
     "p394_2": {
-      "index": "11538.24",
+      "index": "11553.24",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "p395_1": {
-      "index": "11601.0",
+      "index": "11622.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 395"
     },
     "p395_2": {
-      "index": "11658.0",
+      "index": "11686.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "p396_1": {
-      "index": "11710.0",
+      "index": "11745.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 396"
     },
     "p396_2": {
-      "index": "11769.70",
+      "index": "11811.70",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "p397_1": {
-      "index": "11832.0",
+      "index": "11883.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 397"
     },
     "p397_2": {
-      "index": "11899.0",
+      "index": "11959.37",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "p398_1": {
-      "index": "11964.0",
+      "index": "12028.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 398"
     },
     "p398_2": {
-      "index": "12020.0",
+      "index": "12092.0",
       "style": "\"",
       "number": "No Count",
       "label": ""
     },
     "p399": {
-      "index": "12087.0",
+      "index": "12166.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 399"
     },
     "p400": {
-      "index": "12157.0",
+      "index": "12236.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 400"
     },
     "p401": {
-      "index": "12204.0",
+      "index": "12283.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 401"
     },
     "p402": {
-      "index": "12247.0",
+      "index": "12326.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 402"
@@ -2663,7 +2663,7 @@
     "Basic Latin": true
   },
   "bookmarks": {
-    "Bookmark1": "12100.51",
+    "Bookmark1": "12179.51",
     "Bookmark2": "1.0",
     "Bookmark3": "1.0"
   },
