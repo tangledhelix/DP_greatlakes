@@ -28,10 +28,12 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] p393-p398: index
 * [ ] p399-p402: advertisements
 * [ ] There's a co-author; ensure it's in the upload metadata
-* [ ] Updated illustration descriptions in text file after split; review against HTML for consistency.
+* [ ] Updated illustration descriptions in text file after split; review against HTML for consistency. 36c50a64
 * [ ] Link illo ToC after illos are inserted
 * [ ] Chapter first-word is all-caps with initial drop-cap
 * [ ] wrapping in table cells: hanging indents possible? including ToC
+* [ ] Revisit hyphenated checks using ngrams eng_2019 data
+  * c9c5c8e6 WF checks
 
 ### Project manager notes ###
 
@@ -53,24 +55,25 @@ Nothing of note.
 
 ### Illustrations ###
 
-* [ ] f002: publisher logo
-* [ ] f004: full-page illo
-* [ ] p008a: full-page photo
-* [ ] p012: line drawing (map)
-* [ ] p052: full-page illo
-* [ ] p076a: full-page illo
-* [ ] p104a: full-page illo
-* [ ] p202: line drawing (map)
-* [ ] p204a: full-page illo
-* [ ] p223: line drawing (map)
-* [ ] p232: line drawing (map)
-* [ ] p256a: full-page illo
-* [ ] p278a: full-page illo
-* [ ] p284: line drawing (map)
-* [ ] p348a: full-page illo
-* [ ] p352a: full-page illo
-* [ ] p360a: full-page illo
-* [ ] p370a: full-page illo
+* [x] cover
+* [x] f002: publisher logo
+* [x] f004: full-page illo
+* [x] p008a: full-page photo
+* [x] p012: line drawing (map)
+* [x] p052: full-page illo
+* [x] p076a: full-page illo
+* [x] p104a: full-page illo
+* [x] p202: line drawing (map)
+* [x] p204a: full-page illo
+* [x] p223: line drawing (map)
+* [x] p232: line drawing (map)
+* [x] p256a: full-page illo
+* [x] p278a: full-page illo
+* [x] p284: line drawing (map)
+* [x] p348a: full-page illo
+* [x] p352a: full-page illo
+* [x] p360a: full-page illo
+* [x] p370a: full-page illo
 
 ### Proofer's notes ###
 
@@ -81,6 +84,10 @@ Nothing of note.
 ### Transcriber's notes ###
 
 p. 39: changed “Groseilliers” to “Groseillers” (Radisson and Groseillers)
+
+#### HTML-only
+
+Clicking on most images in this book will open a more detailed version of the image.
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 
