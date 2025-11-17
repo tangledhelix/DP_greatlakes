@@ -31,7 +31,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] Updated illustration descriptions in text file after split; review against HTML for consistency. 36c50a64
 * [x] Link illo ToC after illos are inserted
 * [x] Chapter first-word is all-caps with initial drop-cap
-* [ ] wrapping in table cells: hanging indents possible? including ToC
+* [x] wrapping in table cells: hanging indents possible? including ToC
 * [x] Revisit hyphenated checks using ngrams eng_2019 data
   * c9c5c8e6 WF checks
 

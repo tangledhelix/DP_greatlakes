@@ -362,6 +362,19 @@ p.drop-cap:first-letter
 </head>
 <body>
 
+<div class="transnote">
+<h2 class="nobreak">Transcriber’s Note</h2>
+
+<p class="center">
+Most images in this book can be clicked or tapped to open larger, higher-resolution versions.
+</p>
+
+<p class="center">
+The transcriber was born and raised in the Great Lakes region (Cleveland, Ohio),
+and still lives there as of this writing.
+</p>
+</div>
+
 
 <p><span class="pagenum" id="Page_i">[Pg i]</span></p>
 
@@ -680,77 +693,77 @@ day.</p>
 <td class="tdr tdb">202</td>
 </tr>
 <tr>
-<td class="tdl" colspan="2"><a href="#i_p223">Gateways of the Lakes</a></td>
-<td class="tdr">223</td>
+<td class="tdl tdt" colspan="2"><p class="hanging1"><a href="#i_p223">Gateways of the Lakes</a></p></td>
+<td class="tdr tdb">223</td>
 </tr>
 <tr>
-<td class="tdl" colspan="2"><a href="#i_p232">By Trail and Turnpike to Lake Erie</a></td>
-<td class="tdr">232</td>
+<td class="tdl tdt" colspan="2"><p class="hanging1"><a href="#i_p232">By Trail and Turnpike to Lake Erie</a></p></td>
+<td class="tdr tdb">232</td>
 </tr>
 <tr>
-<td class="tdl" colspan="2"><a href="#i_p284">By Canal and Railroad to Lake Erie</a></td>
-<td class="tdr">284</td>
+<td class="tdl tdt" colspan="2"><p class="hanging1"><a href="#i_p284">By Canal and Railroad to Lake Erie</a></p></td>
+<td class="tdr tdb">284</td>
 </tr>
 <tr><td colspan="3" class="td-spacer"></td></tr>
 <tr><td colspan="3" class="tdc tp-large">ILLUSTRATIONS</td></tr>
 <tr>
-<td class="tdl"><a href="#i_f004">La Salle</a></td>
-<td class="tdr" colspan="2"><i>Frontispiece</i></td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_f004">La Salle</a></p></td>
+<td class="tdr tdb" colspan="2"><i>Frontispiece</i></td>
 </tr>
 <tr>
-<td class="tdl"><a href="#i_p008a">The “Soo” Canal</a></td>
-<td class="tdc"><i>facing page</i></td>
-<td class="tdr">8</td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_p008a">The “Soo” Canal</a></p></td>
+<td class="tdc tdb"><i>facing page</i></td>
+<td class="tdr tdb">8</td>
 </tr>
 <tr>
-<td class="tdl"><a href="#i_p052a">Niagara Falls as sketched by Hennepin</a></td>
-<td class="tdc">”</td>
-<td class="tdr">52</td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_p052a">Niagara Falls as sketched by Hennepin</a></p></td>
+<td class="tdc tdb">”</td>
+<td class="tdr tdb">52</td>
 </tr>
 <tr>
-<td class="tdl"><a href="#i_p076a">La Barre and Grangula</a></td>
-<td class="tdc">”</td>
-<td class="tdr">76</td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_p076a">La Barre and Grangula</a></p></td>
+<td class="tdc tdb">”</td>
+<td class="tdr tdb">76</td>
 </tr>
 <tr>
-<td class="tdl"><a href="#i_p104a">A View of Niagara Fort</a></td>
-<td class="tdc">”</td>
-<td class="tdr">104</td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_p104a">A View of Niagara Fort</a></p></td>
+<td class="tdc tdb">”</td>
+<td class="tdr tdb">104</td>
 </tr>
 <tr>
-<td class="tdl"><a href="#i_p204a">Black Hawk</a></td>
-<td class="tdc">”</td>
-<td class="tdr">204</td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_p204a">Black Hawk</a></p></td>
+<td class="tdc tdb">”</td>
+<td class="tdr tdb">204</td>
 </tr>
 <tr>
-<td class="tdl"><a href="#i_p256a">Through the Locks at Lockport</a></td>
-<td class="tdc">”</td>
-<td class="tdr">256</td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_p256a">Through the Locks at Lockport</a></p></td>
+<td class="tdc tdb">”</td>
+<td class="tdr tdb">256</td>
 </tr>
 <tr>
-<td class="tdl"><a href="#i_p278a">Chicago in 1831</a></td>
-<td class="tdc">”</td>
-<td class="tdr">278</td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_p278a">Chicago in 1831</a></p></td>
+<td class="tdc tdb">”</td>
+<td class="tdr tdb">278</td>
 </tr>
 <tr>
-<td class="tdl"><a href="#i_p348a">An Early Lake Superior Copper Mine</a></td>
-<td class="tdc">”</td>
-<td class="tdr">348</td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_p348a">An Early Lake Superior Copper Mine</a></p></td>
+<td class="tdc tdb">”</td>
+<td class="tdr tdb">348</td>
 </tr>
 <tr>
-<td class="tdl"><a href="#i_p352a">Iron Ore at a Lake Superior Port</a></td>
-<td class="tdc">”</td>
-<td class="tdr">352</td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_p352a">Iron Ore at a Lake Superior Port</a></p></td>
+<td class="tdc tdb">”</td>
+<td class="tdr tdb">352</td>
 </tr>
 <tr>
-<td class="tdl"><a href="#i_p360a1">The Old and the New, General Cass’s Canoe and a Modern Freight Steamer</a></td>
-<td class="tdc">”</td>
-<td class="tdr">360</td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_p360a1">The Old and the New, General Cass’s Canoe and a Modern Freight Steamer</a></p></td>
+<td class="tdc tdb">”</td>
+<td class="tdr tdb">360</td>
 </tr>
 <tr>
-<td class="tdl"><a href="#i_p370a">Grain Elevator and Lumber Jam</a></td>
-<td class="tdc">”</td>
-<td class="tdr">370</td>
+<td class="tdl tdt"><p class="hanging1"><a href="#i_p370a">Grain Elevator and Lumber Jam</a></p></td>
+<td class="tdc tdb">”</td>
+<td class="tdr tdb">370</td>
 </tr>
 </table>
 
@@ -1747,8 +1760,8 @@ winter ministering to the Indians on the southern
 shore of Lake Superior. In the following
 summer he set out on an inland journey from the
 lake and was never heard from again. In the
-same year, however, two fur-traders, Radisson
-and Groseillers, coasted along the shore of Lake
+same year, however, two fur-traders, <a id="TN1">Radisson
+and Groseillers</a>, coasted along the shore of Lake
 Superior and Lake Michigan and were followed
 by many Jesuit missionaries whose names have
 become famous. Two principal mission stations
@@ -12478,6 +12491,22 @@ last, will find it here.”</p>
 <p class="center tp-large">THE MACMILLAN COMPANY</p>
 
 <p class="center tp-small"><strong>64–66 FIFTH AVENUE, NEW YORK</strong></p>
+
+<div class="transnote">
+<h2 class="nobreak">Transcriber’s Note</h2>
+
+<p>
+Some inconsistencies in spelling, hyphenation, and punctuation have been
+retained.
+</p>
+
+<ul>
+<li>
+p. 39: changed “Groseilliers” to “Groseillers” (<a href="#TN1">Radisson and Groseillers</a>)
+</li>
+</ul>
+
+</div>
 
 </body>
 </html>
