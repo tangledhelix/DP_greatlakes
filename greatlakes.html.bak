@@ -55,6 +55,7 @@ hr.r65 {width: 65%; margin-top: 3em; margin-bottom: 3em; margin-left: 17.5%; mar
 div.chapter {page-break-before: always;}
 h2.nobreak  {page-break-before: avoid;}
 .chap-subhead {font-size: 70%; }
+.pagebreak {page-break-before: always;}
 
 ul.index { list-style-type: none; }
 li.ifrst {
@@ -319,6 +320,20 @@ blockquote {
 .ad-descr { text-indent: 0; margin-left: 1.5em; }
 .ad-descr2 { text-indent: -2.5em; padding-left: 2.5em; }
 
+
+/* Illustration classes */
+.illowe10 {width: 10em;}
+.illowp43 {width: 43%;}
+.x-ebookmaker .illowp43 {width: 100%;}
+.illowp99 {width: 99%;}
+.x-ebookmaker .illowp99 {width: 100%;}
+.illowp100 {width: 100%;}
+.illowp57 {width: 57%;}
+.x-ebookmaker .illowp57 {width: 100%;}
+.illowp59 {width: 59%;}
+.x-ebookmaker .illowp59 {width: 100%;}
+.illowp61 {width: 61%;}
+.x-ebookmaker .illowp61 {width: 100%;}
     </style>
 </head>
 <body>
@@ -326,16 +341,17 @@ blockquote {
 
 <p><span class="pagenum" id="Page_i">[Pg i]</span></p>
 
-<p class="center tp-xl">
+<p class="p4 center tp-xl">
 THE STORY OF THE GREAT LAKES
 <span class="pagenum" id="Page_ii">[Pg ii]</span>
 </p>
 
+<figure class="figcenter illowe10 pagebreak" id="i_f002">
+  <img class="p4 w100" src="images/i_f002.jpg" alt="Publisher’s logo">
+</figure>
 
-<p>[Illustration]</p>
 
-
-<p class="center p2">THE MACMILLAN COMPANY<br>
+<p class="center">THE MACMILLAN COMPANY<br>
 <span class="tp-small">NEW YORK · BOSTON · CHICAGO<br>
 ATLANTA · SAN FRANCISCO</span></p>
 
@@ -346,8 +362,9 @@ MELBOURNE</span></p>
 <p class="center p2">THE MACMILLAN CO. OF CANADA, <span class="smcap">Ltd.</span><br>
 <span class="tp-small">TORONTO</span></p>
 
-
-<p>[Illustration]</p>
+<figure class="figcenter illowp43 pagebreak" id="i_f004" style="max-width: 37.5em;">
+  <a href="images/i_f004_full.jpg"><img class="w100" src="images/i_f004.jpg" alt="Portrait of Robert Cavelier de La Salle"></a>
+</figure>
 
 <p><span class="pagenum" id="Page_iii">[Pg iii]</span></p>
 
@@ -631,7 +648,7 @@ day.</p>
 <tr><td colspan="3" class="tdc tp-large">MAPS</td></tr>
 <tr><td colspan="2"></td><td class="tdr td-small">PAGE</td></tr>
 <tr>
-<td class="tdl" colspan="2">Huron—Erie—Ontario</td>
+<td class="tdl" colspan="2"><a href="#i_p012">Huron—Erie—Ontario</a></td>
 <td class="tdr">12</td>
 </tr>
 <tr>
@@ -653,16 +670,16 @@ day.</p>
 <tr><td colspan="3" class="td-spacer"></td></tr>
 <tr><td colspan="3" class="tdc tp-large">ILLUSTRATIONS</td></tr>
 <tr>
-<td class="tdl">La Salle</td>
+<td class="tdl"><a href="#i_f004">La Salle</a></td>
 <td class="tdr" colspan="2"><i>Frontispiece</i></td>
 </tr>
 <tr>
-<td class="tdl">The “Soo” Canal</td>
+<td class="tdl"><a href="#i_p008a">The “Soo” Canal</a></td>
 <td class="tdc"><i>facing page</i></td>
 <td class="tdr">8</td>
 </tr>
 <tr>
-<td class="tdl">Niagara Falls as sketched by Hennepin</td>
+<td class="tdl"><a href="#i_p052a">Niagara Falls as sketched by Hennepin</a></td>
 <td class="tdc">”</td>
 <td class="tdr">52</td>
 </tr>
@@ -904,13 +921,13 @@ wonderful what changes a century has witnessed.</p>
 
 <p><span class="pagenum" id="Page_10">[Pg 10]</span></p>
 
-<p>[Illustration:</p>
-
-<p>
-  Copyright, 1904, by Detroit Photographic Co.
-</p>
-
-<p><span class="smcap">The “Soo” Canal</span>]</p>
+<figure class="figcenter illowp99" id="i_p008a" style="max-width: 50.0em;">
+  <a href="images/i_p008a_full.jpg"><img class="w100" src="images/i_p008a.jpg" alt="Photograph of ships in a canal taken from shore."></a>
+  <figcaption>
+      <p>Copyright, 1904, by Detroit Photographic Co.
+    <span class="smcap">The “Soo” Canal</span></p>
+  </figcaption>
+</figure>
 
 
 <hr class="chap x-ebookmaker-drop">
@@ -976,7 +993,10 @@ They called this section of country “The Long
 House” from its resemblance in shape to one
 of their oblong dwellings.</p>
 
-<p>[Illustration: HURON-ERIE-ONTARIO]</p>
+<figure class="figcenter illowp100" id="i_p012" style="max-width: 50.0em;">
+  <a href="images/i_p012_full.jpg"><img class="w100" src="images/i_p012.jpg" alt="Map of Lakes Huron, Erie, and Ontario, also depicting
+ connecting waterways and a number of smaller lakes in the region."></a>
+</figure>
 
 <p>The Algonquins occupied the greater part of
 the country from the St. Lawrence to Lake
@@ -2096,7 +2116,12 @@ slope the imprisoned waters dash in a succession of boiling rapids, white with
 foam, forming in one loop of the channel a curious whirlpool. Issuing from
 this gorge at Lewiston, the river flows tranquilly on to Lake Ontario.</p></div>
 
-<p>[Illustration: <span class="smcap">Niagara Falls as sketched by Hennepin</span>]</p>
+<figure class="figcenter illowp100" id="i_p052a" style="max-width: 62.5em;">
+  <a href="images/i_p052a_full.jpg"><img class="w100" src="images/i_p052a.jpg" alt="The Falls are seen from the Canadian side of the river, the viewer facing roughly southeast. The American Falls are to the left, the Canadian Falls to the right."></a>
+  <figcaption>
+      <p><span class="smcap">Niagara Falls as sketched by Hennepin</span></p>
+  </figcaption>
+</figure>
 
 <p>While Hennepin and his party were exploring
 the Niagara, La Motte, the leader of the expedition,
@@ -2723,7 +2748,12 @@ draw down mischief upon their nations. About
 this calumet were piled the wampum belts to be
 presented by the speakers.</p>
 
-<p>[Illustration: <span class="smcap">La Barre and Grangula</span>]</p>
+<figure class="figcenter illowp57" id="i_p076a" style="max-width: 40.625em;">
+  <a href="images/i_p076a_full.jpg"><img class="w100" src="images/i_p076a.jpg" alt="A map of La Barre and Grangula"></a>
+  <figcaption>
+      <p><span class="smcap">La Barre and Grangula</span></p>
+  </figcaption>
+</figure>
 
 <p>La Barre opened the council, speaking boldly
 and with apparent assurance. He made no allusion
@@ -3470,15 +3500,15 @@ an attack upon it for several years. In
 the next summer made a determined attack on
 Niagara.</p>
 
-<p>[Illustration:</p>
-
-<p>
-  <span class="smcap">A View</span> of <span class="smcap">Niagara Fort</span>,<br>
-  <i>taken by Sir William Johnson</i>,<br>
-  on the 25<sup>th</sup> of July 1759.<br>
-  <i>Drawn on the Spot in 1758.</i>
-</p>
-<p>]</p>
+<figure class="figcenter illowp100" id="i_p104a" style="max-width: 50.0em;">
+  <a href="images/i_p104a_full.jpg"><img class="w100" src="images/i_p104a.jpg" alt="A rough map showing Niagara Fort at the junction of the Niagara River and Lake Ontario."></a>
+  <figcaption>
+      <p><span class="smcap">A View</span> of <span class="smcap">Niagara Fort</span>,<br>
+      <i>taken by Sir William Johnson</i>,<br>
+      on the 25<sup>th</sup> of July 1759.<br>
+      <i>Drawn on the Spot in 1758.</i></p>
+  </figcaption>
+</figure>
 
 <p>The fort at Niagara was now commanded by a
 French officer and engineer, Captain Pouchot;
@@ -6081,10 +6111,12 @@ of the United States the Indians might live and
 hunt there, but when they were bought by
 settlers the Indians must move.</p>
 
-<p>[Illustration: FROM
-LAKE MICHIGAN
-TO
-THE MISSISSIPPI]</p>
+<figure class="figcenter illowp100" id="i_p202" style="max-width: 43.75em;">
+  <a href="images/i_p202_full.jpg"><img class="w100" src="images/i_p202.jpg" alt="A map of the waterways connecting Lake Michigan to the Mississippi River."></a>
+  <figcaption>
+      <p>FROM LAKE MICHIGAN TO THE MISSISSIPPI</p>
+  </figcaption>
+</figure>
 
 <p>American mining settlements sprang up after
 the close of the War of 1812, and by 1827 an
@@ -6137,7 +6169,13 @@ had been involved in every tribal skirmish that
 had taken place, and he had played a prominent
 part in the white men’s wars.</p>
 
-<p>[Illustration: <span class="smcap">Black Hawk</span>]</p>
+<figure class="figcenter illowp59" id="i_p204a" style="max-width: 46.875em;">
+  <a href="images/i_p204a_full.jpg"><img class="w100" src="images/i_p204a.jpg" alt="Portrait of Black Hawk, shown wearing several necklaces
+as well as numerous earrings which are in both ears."></a>
+  <figcaption>
+      <p><span class="smcap">Black Hawk</span></p>
+  </figcaption>
+</figure>
 
 <p>In the unsettled period before the War of 1812,
 Black Hawk had gathered about him a group of
@@ -6607,7 +6645,12 @@ rose once more to justify the opportunities of her
 location and to become the leading city of the
 Great Lakes.</p>
 
-<p>[Illustration: GATEWAYS OF THE LAKES]</p>
+<figure class="figcenter illowp100" id="i_p223" style="max-width: 43.75em;">
+  <a href="images/i_p223_full.jpg"><img class="w100" src="images/i_p223.jpg" alt="Map: “Gateways of the lakes” showing major cities along the shores of the five Great Lakes, including Duluth, Milwaukee, Chicago, Detroit, Toledo, Cleveland, Toronto, Buffalo, Rochester, and Kingston"></a>
+  <figcaption>
+      <p>GATEWAYS OF THE LAKES</p>
+  </figcaption>
+</figure>
 
 <p>The Black Hawk War opened up in 1832 the
 southern part of Wisconsin. Land along the
@@ -6859,7 +6902,12 @@ Albany to Niagara, a distance of three hundred
 miles, each Indian being expected to make in a
 day his “century run.”</p>
 
-<p>[Illustration: BY TRAIL AND TURNPIKE TO LAKE ERIE]</p>
+<figure class="figcenter illowp100" id="i_p232" style="max-width: 53.125em;">
+  <a href="images/i_p232_full.jpg"><img class="w100" src="images/i_p232.jpg" alt="Map: “By trail and turnpike to Lake Erie” depicting the area between Niagara Falls and Albany"></a>
+  <figcaption>
+      <p>BY TRAIL AND TURNPIKE TO LAKE ERIE</p>
+  </figcaption>
+</figure>
 
 <p><span class="pagenum" id="Page_233">[Pg 233]</span></p>
 
@@ -6949,7 +6997,7 @@ March 31, 1813</i></p>
 </tr>
 <tr>
 <td class="tdl">For every cart, wagon, or other wheeled carriage, drawn by 2 horses, mules, or oxen</td>
-<td class="tdr">12-1/2</td>
+<td class="tdr">12¹⁄₂</td>
 </tr>
 <tr>
 <td class="tdl">And for each additional horse, mule, or ox</td>
@@ -7545,7 +7593,12 @@ York in one hour and thirty minutes. New
 York responded, sending the message back to
 Buffalo in the same time.</p>
 
-<p>[Illustration: <span class="smcap">Through the Locks at Lockport</span>]</p>
+<figure class="figcenter illowp100" id="i_p256a" style="max-width: 46.875em;">
+  <a href="images/i_p256a_full.jpg"><img class="w100" src="images/i_p256a.jpg" alt=""></a>
+  <figcaption>
+      <p><span class="smcap">Through the Locks at Lockport</span></p>
+  </figcaption>
+</figure>
 
 <p>At almost every town and village along the
 route the <i>Seneca Chief</i> was met with exercises,
@@ -8130,7 +8183,12 @@ minutes. This was maintained by subscription
 among the inhabitants, and no fee was therefore
 charged for crossing.</p>
 
-<p>[Illustration: <span class="smcap">Chicago in 1831</span>]</p>
+<figure class="figcenter illowp100" id="i_p278a" style="max-width: 50.0em;">
+  <a href="images/i_p278a_full.jpg"><img class="w100" src="images/i_p278a.jpg" alt="Chicago as seen from the water."></a>
+  <figcaption>
+      <p><span class="smcap">Chicago in 1831</span></p>
+  </figcaption>
+</figure>
 
 <p>Margaret Fuller spent the summer of 1843 on
 the lakes, and left a charming account of her
@@ -8299,7 +8357,12 @@ to us who are accustomed to limited trains and
 “flyers” the story of the first trains is one of
 curious interest.</p>
 
-<p>[Illustration: BY CANAL AND RAILROAD TO LAKE ERIE]</p>
+<figure class="figcenter illowp100" id="i_p284" style="max-width: 50.0em;">
+  <a href="images/i_p284_full.jpg"><img class="w100" src="images/i_p284.jpg" alt="Map: “By Canal and Railroad to Lake Erie” showing connecting canal and railroad paths from Lake Michigan in the west to Lake Ontario and New York in the east"></a>
+  <figcaption>
+      <p>BY CANAL AND RAILROAD TO LAKE ERIE</p>
+  </figcaption>
+</figure>
 
 <p>Ohio and Michigan were progressive in the
 matter of building railroads. Michigan gave a
@@ -9069,12 +9132,12 @@ thronged the streets. The excitement was tremendous,
 and thunders of applause burst forth
 at the names of Seward and Lincoln. When
 the delegates settled down to voting, the result
-of the first ballot was 173-1/2 for Seward and 102
+of the first ballot was 173¹⁄₂ for Seward and 102
 for Lincoln, the rest of the votes going to the six
 minor candidates. On the next ballot the states
 abandoned their “favorite sons,” turning to one
 <span class="pagenum" id="Page_313">[Pg 313]</span>or the other of the two leaders, with the result
-that Seward had 184-1/2 and Lincoln 181. Two
+that Seward had 184¹⁄₂ and Lincoln 181. Two
 hundred and thirty-three votes were necessary for
 a choice. As the delegates were preparing for
 the third ballot, the chairman of the Illinois Republican
@@ -9085,7 +9148,7 @@ a long, moss-covered old rail bearing the legend,
 “Split by Lincoln.” The dense crowd went
 wild with enthusiasm.</p>
 
-<p>On the third ballot Lincoln had 231-1/2, Seward
+<p>On the third ballot Lincoln had 231¹⁄₂, Seward
 180. One vote and a half more were needed, and
 there was a moment of breathless silence until
 the chairman of the Ohio delegation rose and
@@ -10141,7 +10204,12 @@ still a most important factor in the contribution
 of the lake region to the wealth of the
 country.</p>
 
-<p>[Illustration: <span class="smcap">An Early Lake Superior Copper Mine</span>]</p>
+<figure class="figcenter illowp100" id="i_p348a" style="max-width: 87.5em;">
+  <a href="images/i_p348a_full.jpg"><img class="w100" src="images/i_p348a.jpg" alt=""></a>
+  <figcaption>
+      <p><span class="smcap">An Early Lake Superior Copper Mine</span></p>
+  </figcaption>
+</figure>
 
 <p>The presence of iron ore in the Lake Superior
 country was hardly suspected until after 1840.
@@ -10249,13 +10317,15 @@ he endeavored to enlist in this venture were
 sceptical, so Mr. Tower had to proceed single-handed
 in his task.</p>
 
-<p>[Illustration:</p>
-
-<p>
-  From Stereograph, copyright, 1906, by Underwood &amp; Underwood, New York.
-</p>
-
-<p><span class="smcap">Iron Ore at a Lake Superior Port</span>]</p>
+<figure class="figcenter illowp61" id="i_p352a" style="max-width: 64.25em;">
+  <a href="images/i_p352a_full.jpg"><img class="w100" src="images/i_p352a.jpg" alt="Depicting iron ore
+in a series of railroad cars."></a>
+  <figcaption>
+      <p>From Stereograph, copyright, 1906, by Underwood &amp; Underwood, New York.</p>
+      <p>
+    <span class="smcap">Iron Ore at a Lake Superior Port</span></p>
+  </figcaption>
+</figure>
 
 <p>It is little wonder that men doubted the
 practicability of Mr. Tower’s schemes; it is the
@@ -10483,15 +10553,16 @@ that fearful night on the little vessel hoping for
 daylight to come before she was knocked to
 pieces.</p>
 
-<p>[Illustration:</p>
-
-<p>
-  Copyright, 1905, by Detroit Publishing Co.
-</p>
-
-<p><span class="smcap">The Old and the New</span></p>
-
-<p>General Cass’s Canoe and a Modern Freight Steamer]</p>
+<figure class="figcenter illowp100" id="i_p360a1" style="max-width: 106.25em;">
+  <a href="images/i_p360a1_full.jpg"><img class="w100" src="images/i_p360a1.jpg" alt="General Cass’s Canoe."></a>
+  <a href="images/i_p360a2_full.jpg"><img class="w100" src="images/i_p360a2.jpg" alt="Modern Freight Steamer."></a>
+  <figcaption>
+      <p>Copyright, 1905, by Detroit Publishing Co.</p>
+      <p>
+    <span class="smcap">The Old and the New</span></p>
+      <p>General Cass’s Canoe and a Modern Freight Steamer</p>
+  </figcaption>
+</figure>
 
 <p>The steamboat did not disappear from the
 lakes, as the journal had feared it would, but in
@@ -10761,13 +10832,14 @@ the usual style of freighters. Moreover, they
 have reached their maximum size and cannot be
 improved or enlarged without change of shape.</p>
 
-<p>[Illustration:</p>
-
-<p>
-  Copyright, 1902, by Detroit Photographic Co.
-</p>
-
-<p><span class="smcap">Grain Elevator and Lumber Jam</span>]</p>
+<figure class="figcenter illowp100" id="i_p370a" style="max-width: 78.125em;">
+  <a href="images/i_p370a_full.jpg"><img class="w100" src="images/i_p370a.jpg" alt="In the distance a grain elevator with numerous silos. In the foreground, a logjam on the surface of the water."></a>
+  <figcaption>
+      <p>Copyright, 1902, by Detroit Photographic Co.</p>
+      <p>
+    <span class="smcap">Grain Elevator and Lumber Jam</span></p>
+  </figcaption>
+</figure>
 
 <p>The passenger steamers of the lakes are models
 of comfort, built more and more on the style, and
