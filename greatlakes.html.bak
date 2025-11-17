@@ -320,7 +320,6 @@ blockquote {
 .ad-descr { text-indent: 0; margin-left: 1.5em; }
 .ad-descr2 { text-indent: -2.5em; padding-left: 2.5em; }
 
-
 /* Illustration classes */
 .illowe10 {width: 10em;}
 .illowp43 {width: 43%;}
@@ -334,6 +333,24 @@ blockquote {
 .x-ebookmaker .illowp59 {width: 100%;}
 .illowp61 {width: 61%;}
 .x-ebookmaker .illowp61 {width: 100%;}
+
+/* drop capitals */
+p.drop-cap {
+  text-indent: 0em;
+}
+p.drop-cap:first-letter
+{
+  float: left;
+  margin: 0.15em 0.1em 0em 0em;
+  font-size: 250%;
+  line-height:0.85em;
+}
+.x-ebookmaker  p.drop-cap:first-letter
+{
+  float: none;
+  margin: 0;
+  font-size: 100%;
+}
     </style>
 </head>
 <body>
@@ -418,7 +435,7 @@ Norwood, Mass., U.S.A.</i></p>
 </div>
 
 
-<p>For three hundred years the Great Lakes
+<p><span class="smcap">For</span> three hundred years the Great Lakes
 have been the centre of an immensely varied and
 interesting history. They were originally the
 home of savages; they were discovered and explored
@@ -652,19 +669,19 @@ day.</p>
 <td class="tdr">12</td>
 </tr>
 <tr>
-<td class="tdl" colspan="2">From Lake Michigan to the Mississippi</td>
+<td class="tdl" colspan="2"><a href="#i_p202">From Lake Michigan to the Mississippi</a></td>
 <td class="tdr">202</td>
 </tr>
 <tr>
-<td class="tdl" colspan="2">Gateways of the Lakes</td>
+<td class="tdl" colspan="2"><a href="#i_p223">Gateways of the Lakes</a></td>
 <td class="tdr">223</td>
 </tr>
 <tr>
-<td class="tdl" colspan="2">By Trail and Turnpike to Lake Erie</td>
+<td class="tdl" colspan="2"><a href="#i_p232">By Trail and Turnpike to Lake Erie</a></td>
 <td class="tdr">232</td>
 </tr>
 <tr>
-<td class="tdl" colspan="2">By Canal and Railroad to Lake Erie</td>
+<td class="tdl" colspan="2"><a href="#i_p284">By Canal and Railroad to Lake Erie</a></td>
 <td class="tdr">284</td>
 </tr>
 <tr><td colspan="3" class="td-spacer"></td></tr>
@@ -684,47 +701,47 @@ day.</p>
 <td class="tdr">52</td>
 </tr>
 <tr>
-<td class="tdl">La Barre and Grangula</td>
+<td class="tdl"><a href="#i_p076a">La Barre and Grangula</a></td>
 <td class="tdc">”</td>
 <td class="tdr">76</td>
 </tr>
 <tr>
-<td class="tdl">A View of Niagara Fort</td>
+<td class="tdl"><a href="#i_p104a">A View of Niagara Fort</a></td>
 <td class="tdc">”</td>
 <td class="tdr">104</td>
 </tr>
 <tr>
-<td class="tdl">Black Hawk</td>
+<td class="tdl"><a href="#i_p204a">Black Hawk</a></td>
 <td class="tdc">”</td>
 <td class="tdr">204</td>
 </tr>
 <tr>
-<td class="tdl">Through the Locks at Lockport</td>
+<td class="tdl"><a href="#i_p256a">Through the Locks at Lockport</a></td>
 <td class="tdc">”</td>
 <td class="tdr">256</td>
 </tr>
 <tr>
-<td class="tdl">Chicago in 1831</td>
+<td class="tdl"><a href="#i_p278a">Chicago in 1831</a></td>
 <td class="tdc">”</td>
 <td class="tdr">278</td>
 </tr>
 <tr>
-<td class="tdl">An Early Lake Superior Copper Mine</td>
+<td class="tdl"><a href="#i_p348a">An Early Lake Superior Copper Mine</a></td>
 <td class="tdc">”</td>
 <td class="tdr">348</td>
 </tr>
 <tr>
-<td class="tdl">Iron Ore at a Lake Superior Port</td>
+<td class="tdl"><a href="#i_p352a">Iron Ore at a Lake Superior Port</a></td>
 <td class="tdc">”</td>
 <td class="tdr">352</td>
 </tr>
 <tr>
-<td class="tdl">The Old and the New, General Cass’s Canoe and a Modern Freight Steamer</td>
+<td class="tdl"><a href="#i_p360a1">The Old and the New, General Cass’s Canoe and a Modern Freight Steamer</a></td>
 <td class="tdc">”</td>
 <td class="tdr">360</td>
 </tr>
 <tr>
-<td class="tdl">Grain Elevator and Lumber Jam</td>
+<td class="tdl"><a href="#i_p370a">Grain Elevator and Lumber Jam</a></td>
 <td class="tdc">”</td>
 <td class="tdr">370</td>
 </tr>
@@ -756,7 +773,7 @@ day.</p>
 </div>
 
 
-<p>Standing in Lake Park, Chicago, beside
+<p class="drop-cap"><span class="smcap">Standing</span> in Lake Park, Chicago, beside
 the statue of General Logan, the supporter
 of Douglas and, later, of Lincoln, one has
 behind him the most marvellous city of modern
@@ -940,7 +957,7 @@ wonderful what changes a century has witnessed.</p>
 </div>
 
 
-<p>On the 28th of July, 1615, Samuel de
+<p class="drop-cap"><span class="smcap">On</span> the 28th of July, 1615, Samuel de
 Champlain paddled out of the mouth
 of the French River into the waters
 of Georgian Bay, an arm of Lake Huron; or,
@@ -1342,7 +1359,7 @@ the exploration and settlement of the wilderness.</p>
 </div>
 
 
-<p>From 1615, when Father Joseph Le Caron
+<p class="drop-cap"><span class="smcap">From</span> 1615, when Father Joseph Le Caron
 celebrated the first mass among the Hurons,
 for fourteen years a few intrepid
 priests braved the difficulties of savage life, and
@@ -1715,7 +1732,7 @@ Nations.</p>
 </div>
 
 
-<p>With the destruction of the Huron missions
+<p class="drop-cap"><span class="smcap">With</span> the destruction of the Huron missions
 western exploration ceased for a
 few years. In 1660 Father Ménard
 passed through the Sault Ste. Marie and spent a
@@ -1989,7 +2006,7 @@ had been singled out as a strategic spot.</p>
 </div>
 
 
-<p>The next noteworthy event in the story
+<p class="drop-cap"><span class="smcap">The</span> next noteworthy event in the story
 of the Great Lakes is the building and
 the launching of the <i>Griffon</i>, and the
 voyage of La Salle from the Niagara River to
@@ -2325,7 +2342,7 @@ admiration for the French.</p>
 </div>
 
 
-<p>In the summer of 1679, La Salle returned
+<p class="drop-cap"><span class="smcap">In</span> the summer of 1679, La Salle returned
 from Fort Frontenac to Niagara to find the
 <i>Griffon</i> finished and ready for her first
 voyage. By the completion of this vessel his
@@ -2638,7 +2655,7 @@ lakes.”</p>
 </div>
 
 
-<p>Like all strong men Frontenac made
+<p class="drop-cap"><span class="smcap">Like</span> all strong men Frontenac made
 many enemies. He was recalled in 1682,
 and General La Barre, a man of about
 sixty, was sent out in his place. La Barre had
@@ -2995,7 +3012,7 @@ the poor man could do no more than he did.”</p>
 </div>
 
 
-<p>After the failure which has been recounted
+<p class="drop-cap"><span class="smcap">After</span> the failure which has been recounted
 in the preceding chapter, La
 Barre was recalled to France, and a new
 governor, Denonville, sent over to take his place.
@@ -3383,7 +3400,7 @@ plant and develop a home.</p>
 </div>
 
 
-<p>The importance of Niagara in trade and
+<p class="drop-cap"><span class="smcap">The</span> importance of Niagara in trade and
 warfare was early recognized by both the
 French and the English as well as by the
 Iroquois. La Salle and Denonville, in their desire
@@ -3711,7 +3728,7 @@ posts on the Great Lakes.</p>
 </div>
 
 
-<p>On the thirteenth day of September, 1760,
+<p class="drop-cap"><span class="smcap">On</span> the thirteenth day of September, 1760,
 five days after the surrender of Montreal,
 Major Robert Rogers, the most energetic
 Indian fighter of the time, set out from Montreal
@@ -4317,7 +4334,7 @@ people by a period of universal tribal war.</p>
 </div>
 
 
-<p>A fur trader by the name of Alexander
+<p class="drop-cap"><span class="smcap">A fur trader</span> by the name of Alexander
 Henry was the first Englishman
 to reach Mackinac after the fall of New
 France. His story of his adventures gives a
@@ -4741,7 +4758,7 @@ soldiers.</p>
 </div>
 
 
-<p>With the turn of a single page of history
+<p class="drop-cap"><span class="smcap">With</span> the turn of a single page of history
 and the passage of a single decade
 of time, during this century of struggle
 for possession, the actors in the drama change, or
@@ -5124,7 +5141,7 @@ possible.</p>
 </div>
 
 
-<p>From the surrender of the northwest posts
+<p class="drop-cap"><span class="smcap">From</span> the surrender of the northwest posts
 and the founding of Cleveland to the year
 1812, there is little to note in the history
 of the Great Lakes. The forts were gradually
@@ -5493,7 +5510,7 @@ uncertain.</p>
 </div>
 
 
-<p>The year 1813 began with another disaster
+<p class="drop-cap"><span class="smcap">The</span> year 1813 began with another disaster
 for the United States. After the
 surrender of Detroit, Governor William
 Henry Harrison, of the Indiana Territory, placed
@@ -5804,7 +5821,7 @@ peace.</p>
 </div>
 
 
-<p>A period of conflict always leaves behind
+<p class="drop-cap"><span class="smcap">A period</span> of conflict always leaves behind
 it changed and unsettled conditions.
 Between the close of a war and the
 final readjustment of affairs leading up to a settled
@@ -6080,7 +6097,7 @@ the respect of all.</p>
 </div>
 
 
-<p>The settlement of northern Illinois and
+<p class="drop-cap"><span class="smcap">The</span> settlement of northern Illinois and
 Wisconsin by American colonists brought
 on in 1832 the last serious Indian outbreak
 in the lake region. The white men had
@@ -6483,7 +6500,7 @@ had been Americanized.</p>
 </div>
 
 
-<p>The Great Lakes are entered from the
+<p class="drop-cap"><span class="smcap">The</span> Great Lakes are entered from the
 outer world by a series of natural gateways
 extending from the mouth of the
 St. Lawrence to the westernmost end of Lake
@@ -6781,7 +6798,7 @@ America.</p>
 </div>
 
 
-<p>As the Indian read in the signs of the trail—the
+<p class="drop-cap"><span class="smcap">As</span> the Indian read in the signs of the trail—the
 depth of a moccasin print or the
 direction of a broken twig—the story
 of those who had journeyed over the path before
@@ -7208,7 +7225,7 @@ and rapid advance.</p>
 </div>
 
 
-<p>Before the nineteenth century, travellers
+<p class="drop-cap"><span class="smcap">Before</span> the nineteenth century, travellers
 who visited Niagara generally went there
 by way of Montreal and Lake Ontario,
 returning to the seacoast by Presque Isle (Erie,
@@ -7444,7 +7461,7 @@ thriving towns and cities.</p>
 </div>
 
 
-<p>Since the beginning of the century there
+<p class="drop-cap"><span class="smcap">Since</span> the beginning of the century there
 had been more or less talk of a canal to
 connect the Hudson with Lake Erie, and
 in 1816 the legislature of New York voted to undertake
@@ -7853,7 +7870,7 @@ transportation.</p>
 </div>
 
 
-<p>The decade from 1830 to 1840 witnessed
+<p class="drop-cap"><span class="smcap">The</span> decade from 1830 to 1840 witnessed
 a rush of people to the country of the
 Great Lakes. As pioneers had poured
 into New York State twenty years before and
@@ -8326,7 +8343,7 @@ to come.</p>
 </div>
 
 
-<p>Lake Erie became in the nineteenth century
+<p class="drop-cap"><span class="smcap">Lake</span> Erie became in the nineteenth century
 the portal of the Great Lakes. To
 her shores came from the east an army of
 immigrants pouring into the states beyond, and
@@ -8763,7 +8780,7 @@ our transcontinental lines had begun.</p>
 </div>
 
 
-<p>In the last years before the Civil War, Illinois
+<p class="drop-cap"><span class="smcap">In</span> the last years before the Civil War, Illinois
 became a political storm centre to which
 the eyes of the whole nation were turned.
 Reaching farther south than any other lake state,
@@ -9255,7 +9272,7 @@ the nation mourned him as a true patriot.</p>
 </div>
 
 
-<p>As the northern frontier of the United
+<p class="drop-cap"><span class="smcap">As</span> the northern frontier of the United
 States the Great Lakes, although at some
 distance from the decisive battles of the
 Civil War, were the scene of strong Confederate
@@ -9613,7 +9630,7 @@ the property was sold, and the buildings torn down.</p>
 </div>
 
 
-<p>No part of the story of the Great Lakes is
+<p class="drop-cap"><span class="smcap">No</span> part of the story of the Great Lakes is
 more significant than the tale of the
 building up of the large enterprises
 that have made that region one of the leading
@@ -10412,7 +10429,7 @@ possessed them.</p>
 </div>
 
 
-<p>Nowhere has the life of the Great
+<p class="drop-cap"><span class="smcap">Nowhere</span> has the life of the Great
 Lakes developed more clearly an individuality
 of its own than in its shipping.
 The conditions which confronted the
