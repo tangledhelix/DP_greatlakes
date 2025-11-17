@@ -30,9 +30,9 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] There's a co-author; ensure it's in the upload metadata
 * [x] Updated illustration descriptions in text file after split; review against HTML for consistency. 36c50a64
 * [x] Link illo ToC after illos are inserted
-* [ ] Chapter first-word is all-caps with initial drop-cap
+* [x] Chapter first-word is all-caps with initial drop-cap
 * [ ] wrapping in table cells: hanging indents possible? including ToC
-* [ ] Revisit hyphenated checks using ngrams eng_2019 data
+* [x] Revisit hyphenated checks using ngrams eng_2019 data
   * c9c5c8e6 WF checks
 
 ### Project manager notes ###
