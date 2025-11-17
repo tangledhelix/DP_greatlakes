@@ -14,22 +14,22 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] p042: line of asterisks at bottom, mid-poem. Is it a `<tb>`? Asked in forum.
+* [x] p042: line of asterisks at bottom, mid-poem. Is it a `<tb>`? Asked in forum.
     * Response in forum: “It usually means that something has been left out of the verse. See [here][1] or [here][2], for example, both of which indicate six lines have been omitted from our book.”
-* [ ] f008: sign-off formatting on Preface
-* [ ] f009-f010: ToC - format as tables (probably 3 tables)
-* [ ] f011: list of illos - format as tables (probably 2 tables)
-* [ ] p042-p043: poetry rewrap (and see above note)
-* [ ] p134: chronology (probably a table)
-* [ ] p235-p236: table
-* [ ] p291: poetry rewrap
-* [ ] p336: table
-* [ ] p337: 2 tables
-* [ ] p393-p398: index
-* [ ] p399-p402: advertisements
+* [x] f008: sign-off formatting on Preface
+* [x] f009-f010: ToC - format as tables (probably 3 tables)
+* [x] f011: list of illos - format as tables (probably 2 tables)
+* [x] p042-p043: poetry rewrap (and see above note)
+* [x] p134: chronology (probably a table)
+* [x] p235-p236: table
+* [x] p291: poetry rewrap
+* [x] p336: table
+* [x] p337: 2 tables
+* [x] p393-p398: index
+* [x] p399-p402: advertisements
 * [ ] There's a co-author; ensure it's in the upload metadata
-* [ ] Updated illustration descriptions in text file after split; review against HTML for consistency. 36c50a64
-* [ ] Link illo ToC after illos are inserted
+* [x] Updated illustration descriptions in text file after split; review against HTML for consistency. 36c50a64
+* [x] Link illo ToC after illos are inserted
 * [ ] Chapter first-word is all-caps with initial drop-cap
 * [ ] wrapping in table cells: hanging indents possible? including ToC
 * [ ] Revisit hyphenated checks using ngrams eng_2019 data
