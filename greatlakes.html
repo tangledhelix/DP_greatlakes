@@ -31,6 +31,7 @@ p {
 }
 
 .p2       {margin-top: 2em;}
+.p2b      {margin-bottom: 2em;}
 .p4       {margin-top: 4em;}
 
 hr {
@@ -94,6 +95,24 @@ table.autotable th { padding: 0.25em; }
   vertical-align: top;
   padding-left: 1em;
   text-indent: -1em;
+}
+.hanging1lp {
+  margin: 0; text-align: left;  /* resets */
+  vertical-align: top;
+  padding-left: 2.5em;
+  text-indent: -1em;
+}
+.hanging1lp2 {
+  margin: 0; text-align: left;  /* resets */
+  vertical-align: top;
+  padding-left: 4em;
+  text-indent: -1em;
+}
+.hanging2 {
+  margin: 0; text-align: left;  /* resets */
+  vertical-align: top;
+  padding-left: 2em;
+  text-indent: -2em;
 }
 
 .td-small { font-size: 80%; }
@@ -219,7 +238,7 @@ blockquote {
 
 /* Illustration classes */
 .illowe10 {width: 10em;}
-.illowp43 {width: 43%;}
+.illowp43 {width: 22em; min-width: 43%; max-width: 98%;}
 .x-ebookmaker .illowp43 {width: 100%;}
 .illowp99 {width: 99%;}
 .x-ebookmaker .illowp99 {width: 100%;}
@@ -286,10 +305,10 @@ ATLANTA · SAN FRANCISCO</span></p>
 <span class="tp-small">LONDON · BOMBAY · CALCUTTA<br>
 MELBOURNE</span></p>
 
-<p class="center p2">THE MACMILLAN CO. OF CANADA, <span class="smcap">Ltd.</span><br>
+<p class="center p2 p2b">THE MACMILLAN CO. OF CANADA, <span class="smcap">Ltd.</span><br>
 <span class="tp-small">TORONTO</span></p>
 
-<figure class="figcenter illowp43 pagebreak" id="i_f004" style="max-width: 37.5em;">
+<figure class="figcenter illowp43 pagebreak" id="i_f004">
   <a href="images/i_f004_full.jpg"><img class="w100" src="images/i_f004.jpg" alt="Portrait of Robert Cavelier de La Salle"></a>
 </figure>
 
@@ -4221,13 +4240,31 @@ people by a period of universal tribal war.</p>
 <p class="center p2"><i>Chronology of the Ending of French Rule</i></p>
 
 <table class="autotable">
-<tr><td class="tdt">1759.</td><td>Capture of Quebec and Niagara.</td></tr>
-<tr><td rowspan="2" class="tdt">1760.</td><td>Capture of Montreal and surrender of Canada.</td></tr>
-<tr><td>Taking possession of Detroit.</td></tr>
-<tr><td rowspan="2" class="tdt">1763.</td><td>Pontiac’s attack, and the fall of the other posts of the western lakes.</td></tr>
-<tr><td>Treaty of Peace.</td></tr>
-<tr><td rowspan="2" class="tdt">1764.</td><td>Sir William Johnson’s conference at Niagara.</td></tr>
-<tr><td>Bradstreet’s expedition up Lake Erie, and the close of the blockade of Detroit.</td></tr>
+<tr>
+  <td class="tdt">1759.</td>
+  <td><p class="hanging1">Capture of Quebec and Niagara.</p></td>
+</tr>
+<tr>
+  <td rowspan="2" class="tdt">1760.</td>
+  <td><p class="hanging1">Capture of Montreal and surrender of Canada.</p></td>
+</tr>
+<tr>
+  <td><p class="hanging1">Taking possession of Detroit.</p></td>
+</tr>
+<tr>
+  <td rowspan="2" class="tdt">1763.</td>
+  <td><p class="hanging1">Pontiac’s attack, and the fall of the other posts of the western lakes.</p></td>
+</tr>
+<tr>
+  <td><p class="hanging1">Treaty of Peace.</p></td>
+</tr>
+<tr>
+  <td rowspan="2" class="tdt">1764.</td>
+  <td><p class="hanging1">Sir William Johnson’s conference at Niagara.</p></td>
+</tr>
+<tr>
+  <td><p class="hanging1">Bradstreet’s expedition up Lake Erie, and the close of the blockade of Detroit.</p></td>
+</tr>
 </table>
 
 <hr class="chap x-ebookmaker-drop">
@@ -6923,50 +6960,50 @@ March 31, 1813</i></p>
 <td class="tdr smcap tp-small" colspan="2">Cents</td>
 </tr>
 <tr>
-<td class="tdl">For every cart, wagon, or other wheeled carriage, drawn by 2 horses, mules, or oxen</td>
+<td class="tdl"><p class="hanging2">For every cart, wagon, or other wheeled carriage, drawn by 2 horses, mules, or oxen</p></td>
 <td class="tdr">12¹⁄₂</td>
 </tr>
 <tr>
-<td class="tdl">And for each additional horse, mule, or ox</td>
+<td class="tdl"><p class="hanging2">And for each additional horse, mule, or ox</p></td>
 <td class="tdr">6</td>
 </tr>
 <tr>
-<td class="tdl">For every cart, wagon, or other two-wheeled carriage drawn by 1 horse or mule</td>
+<td class="tdl"><p class="hanging2">For every cart, wagon, or other two-wheeled carriage drawn by 1 horse or mule</p></td>
 <td class="tdr">9</td>
 </tr>
 <tr>
-<td class="tdl"><span class="pagenum" id="Page_236">[Pg 236]</span>For every horse rode, led, or driven</td>
+<td class="tdl"><span class="pagenum" id="Page_236">[Pg 236]</span><p class="hanging2">For every horse rode, led, or driven</p></td>
 <td class="tdr">6</td>
 </tr>
 <tr>
-<td class="tdl">For every four-wheeled pleasure carriage or wagon drawn by 2 horses</td>
+<td class="tdl"><p class="hanging2">For every four-wheeled pleasure carriage or wagon drawn by 2 horses</p></td>
 <td class="tdr">25</td>
 </tr>
 <tr>
-<td class="tdl">And for each additional horse</td>
+<td class="tdl"><p class="hanging2">And for each additional horse</p></td>
 <td class="tdr">6</td>
 </tr>
 <tr>
-<td class="tdl">For every sleigh or sled drawn by 1 horse, mule, or ox</td>
+<td class="tdl"><p class="hanging2">For every sleigh or sled drawn by 1 horse, mule, or ox</p></td>
 <td class="tdr">6</td>
 </tr>
 <tr>
-<td class="tdl">And for every additional horse, mule, or ox</td>
+<td class="tdl"><p class="hanging2">And for every additional horse, mule, or ox</p></td>
 <td class="tdr">6</td>
 </tr>
 <tr>
-<td class="tdl">For every score of horses, mules, or cattle</td>
+<td class="tdl"><p class="hanging2">For every score of horses, mules, or cattle</p></td>
 <td class="tdr">20</td>
 </tr>
 <tr>
-<td class="tdl" colspan="2">And in like proportion for a greater or less number</td>
+<td class="tdl" colspan="2"><p class="hanging2">And in like proportion for a greater or less number</p></td>
 </tr>
 <tr>
-<td class="tdl">For every score of sheep or hogs</td>
+<td class="tdl"><p class="hanging2">For every score of sheep or hogs</p></td>
 <td class="tdr">8</td>
 </tr>
 <tr>
-<td class="tdl" colspan="2">And in like proportion for a greater or less number</td>
+<td class="tdl" colspan="2"><p class="hanging2">And in like proportion for a greater or less number</p></td>
 </tr>
 </table>
 
@@ -9715,23 +9752,23 @@ in the following table:—</p>
 <td class="tdr td-small" colspan="2"><span class="smcap">Pounds</span></td>
 </tr>
 <tr>
-<td class="tdl">The whole Country &amp; Posts below Montreal</td>
+<td class="tdl"><p class="hanging1">The whole Country &amp; Posts below Montreal</p></td>
 <td class="tdr tdb">30,000</td>
 </tr>
 <tr>
-<td class="tdl">The Grand River, the North Side of the Lakes Ontario, Huron, &amp; Superior</td>
+<td class="tdl"><p class="hanging1">The Grand River, the North Side of the Lakes Ontario, Huron, &amp; Superior</p></td>
 <td class="tdr tdb">30,000</td>
 </tr>
 <tr>
-<td class="tdl">In the Country generally called the North West</td>
+<td class="tdl"><p class="hanging1">In the Country generally called the North West</p></td>
 <td class="tdr tdb">40,000</td>
 </tr>
 <tr class="bb">
-<td class="tdl">In the Countries to the Southward of the Lakes, the Trade of which is principally brought to the posts of Detroit and Michillimackinac, there being very little Indian Trade at Niagara</td>
+<td class="tdl"><p class="hanging1">In the Countries to the Southward of the Lakes, the Trade of which is principally brought to the posts of Detroit and Michillimackinac, there being very little Indian Trade at Niagara</p></td>
 <td class="tdr tdb">100,000</td>
 </tr>
 <tr>
-<td class="tdl">As above</td>
+<td class="tdl"><p class="hanging1">As above</p></td>
 <td class="tdr tdb">£200,000</td>
 </tr>
 </table>
@@ -9743,22 +9780,22 @@ the estimate was as follows:—</p>
 
 <table class="autotable">
 <tr>
-<td class="tdl">In the District of the Garrison of Detroit</td>
+<td class="tdl"><p class="hanging1">In the District of the Garrison of Detroit</p></td>
 <td class="tdr"><span class="smcap">Packs</span></td>
 <td></td>
 </tr>
 <tr>
-<td class="tdl"><span class="tdlp">The Fort of Detroit, Sagana &amp; the South Side of Lake Huron</span></td>
+<td class="tdl"><p class="hanging1lp">The Fort of Detroit, Sagana &amp; the South Side of Lake Huron</p></td>
 <td class="tdr">1000</td>
 <td></td>
 </tr>
 <tr>
-<td class="tdl"><span class="tdlp">Miamis &amp; Wabash Country</span></td>
+<td class="tdl"><p class="hanging1lp">Miamis &amp; Wabash Country</p></td>
 <td class="tdr">2000</td>
 <td></td>
 </tr>
 <tr class="bb">
-<td class="tdl"><span class="tdlp">Sandusky</span></td>
+<td class="tdl"><p class="hanging1lp">Sandusky</p></td>
 <td class="tdr">400</td>
 <td></td>
 </tr>
@@ -9778,37 +9815,37 @@ the estimate was as follows:—</p>
 <td class="tdl" colspan="3">In the District of Michillimackinac:</td>
 </tr>
 <tr>
-<td class="tdl"><span class="tdlp">On Lake Michigan</span></td>
+<td class="tdl"><p class="hanging1lp">On Lake Michigan</p></td>
 <td class="tdr"><span class="smcap">Packs</span></td>
 <td></td>
 </tr>
 <tr>
-<td class="tdl"><span class="tdlp2">The Grand River</span></td>
+<td class="tdl"><p class="hanging1lp2">The Grand River</p></td>
 <td class="tdr tdb">100</td>
 <td></td>
 </tr>
 <tr>
-<td class="tdl"><span class="tdlp2">St. Josephs</span></td>
+<td class="tdl"><p class="hanging1lp2">St. Josephs</p></td>
 <td class="tdr tdb">300</td>
 <td></td>
 </tr>
 <tr>
-<td class="tdl"><span class="tdlp2">Checago</span></td>
+<td class="tdl"><p class="hanging1lp2">Checago</p></td>
 <td class="tdr tdb">100</td>
 <td></td>
 </tr>
 <tr>
-<td class="tdl"><span class="tdlp2">Milwaki</span></td>
+<td class="tdl"><p class="hanging1lp2">Milwaki</p></td>
 <td class="tdr tdb">120</td>
 <td></td>
 </tr>
 <tr>
-<td class="tdl"><span class="tdlp">La Bay or Green Bay, including the upper ports of the Mississippi, the South Side of Lake Superior</span></td>
+<td class="tdl"><p class="hanging1lp">La Bay or Green Bay, including the upper ports of the Mississippi, the South Side of Lake Superior</p></td>
 <td class="tdr tdb">300</td>
 <td></td>
 </tr>
 <tr class="bb">
-<td class="tdl"><span class="tdlp2">The Illinois Country</span></td>
+<td class="tdl"><p class="hanging1lp2">The Illinois Country</p></td>
 <td class="tdr tdb">600</td>
 <td></td>
 </tr>
