@@ -34,6 +34,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] wrapping in table cells: hanging indents possible? including ToC
 * [x] Revisit hyphenated checks using ngrams eng_2019 data
   * c9c5c8e6 WF checks
+* [ ] EPUB3 has ballooned to over 190MB; reprocess images to get rid of most `_full` files ...
 
 ### Project manager notes ###
 
@@ -71,9 +72,9 @@ Nothing of note.
 * [x] p278a: full-page illo
 * [x] p284: line drawing (map)
 * [x] p348a: full-page illo
-* [x] p352a: full-page illo
-* [x] p360a: full-page illo
-* [x] p370a: full-page illo
+* [ ] p352a: full-page illo
+* [ ] p360a: full-page illo
+* [ ] p370a: full-page illo
 
 ### Proofer's notes ###
 
