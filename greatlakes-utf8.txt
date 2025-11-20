@@ -2,15 +2,6 @@
 
 
 
-                           Transcriber's Note
-
-
-The transcriber was born and raised in the Great Lakes region (the
-greater Cleveland area) and still lives there as of this writing.
-
-
-
-
                       THE STORY OF THE GREAT LAKES
 
 
@@ -8541,6 +8532,9 @@ been retained. If there were small-caps, Small capitals changed to all
 capitals.
 
 This file uses _underscores_ to indicate italic text.
+
+The transcriber was born and raised in the Great Lakes region (the
+greater Cleveland area) and still lives there as of this writing.
 
 p. 39: changed “Groseilliers” to “Groseillers” (Radisson and
 Groseillers)
