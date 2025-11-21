@@ -477,14 +477,14 @@ Don't necessarily have to do *all* of these, but these are what I have.
 
 Submit for a decent length of time, up to the maximum. Check what's in `ebooks/` folder, it'll all be uploaded.
 
-* [ ] Make sure git is clean, committed, pushed
-* [ ] If not already done, run online Ebookmaker and get books into `ebooks/`
-* [ ] `make sr`
-* [ ] Write or find a summary/blurb about the book for the SR submission. This can help to interest a potential reader.
-* [ ] Go to [project page](https://www.pgdp.net/c/project.php?id=projectID66745b70bd419), select SR time period, upload `greatlakes-sr.zip`
-* [ ] Subscribe to “user uploads a SR report” item
-* [ ] Update my Trello project board with due date, set card to SR status
-* [ ] If time permits, smooth read it myself as well
+* [x] Make sure git is clean, committed, pushed
+* [x] If not already done, run online Ebookmaker and get books into `ebooks/`
+* [x] `make sr`
+* [x] Write or find a summary/blurb about the book for the SR submission. This can help to interest a potential reader.
+* [x] Go to [project page](https://www.pgdp.net/c/project.php?id=xrojectID66745b70bd419), select SR time period, upload `greatlakes-sr.zip`
+* [x] Subscribe to “user uploads a SR report” item
+* [x] Update my Trello project board with due date, set card to SR status
+* [x] If time permits, smooth read it myself as well
 
 ### Process SR feedback
 * [ ] After SR is finished, processed SR feedback into project.
