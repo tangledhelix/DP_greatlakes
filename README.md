@@ -35,7 +35,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] Revisit hyphenated checks using ngrams eng_2019 data
   * c9c5c8e6 WF checks
 * [x] EPUB3 has ballooned to over 190MB; reprocess images to get rid of most `_full` files ...
-* [ ] reprocess i_p202.jpg, it could be improved.
+* [x] reprocess i_p202.jpg, it could be improved.
 
 ### Project manager notes ###
 
