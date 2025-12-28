@@ -27,7 +27,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] p337: 2 tables
 * [x] p393-p398: index
 * [x] p399-p402: advertisements
-* [ ] There's a co-author; ensure it's in the upload metadata
+* [x] There's a co-author; ensure it's in the upload metadata
 * [x] Updated illustration descriptions in text file after split; review against HTML for consistency. 36c50a64
 * [x] Link illo ToC after illos are inserted
 * [x] Chapter first-word is all-caps with initial drop-cap
