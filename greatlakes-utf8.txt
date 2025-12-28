@@ -884,7 +884,7 @@ for a few years. In 1660 Father Ménard passed through the Sault Ste.
 Marie and spent a winter ministering to the Indians on the southern
 shore of Lake Superior. In the following summer he set out on an inland
 journey from the lake and was never heard from again. In the same year,
-however, two fur-traders, Radisson and Groseillers, coasted along the
+however, two fur-traders, Radisson and Groseilliers, coasted along the
 shore of Lake Superior and Lake Michigan and were followed by many
 Jesuit missionaries whose names have become famous. Two principal
 mission stations were established, one at Sault Ste. Marie, the other
@@ -6330,7 +6330,7 @@ During Champlain’s governorship the French, through Nicolet, first
 opened an active system of trade and barter with the Indians of the
 lakes, and the history of French control thereafter is the history
 of the fur trade. It paid the bills of many of the voyages we have
-chronicled. In 1660 Radisson and Groseillers returned to Quebec from
+chronicled. In 1660 Radisson and Groseilliers returned to Quebec from
 their Lake Superior voyage with sixty canoes loaded with furs valued at
 two hundred thousand pounds, in return for which they had distributed
 among the Indians kettles, graters, awls, needles, tin looking-glasses,
@@ -7834,7 +7834,7 @@ New York_, 1824; H. S. Tanner’s _The American Traveller_ (8th ed.,
 
   _Griffon_, _see under_ Ships.
 
-  Groseillers, 39.
+  Groseilliers, 39.
 
 
   Hamilton, Gen.,
@@ -8536,5 +8536,7 @@ This file uses _underscores_ to indicate italic text.
 The transcriber was born and raised in the Great Lakes region (the
 greater Cleveland area) and still lives there as of this writing.
 
-p. 39: changed “Groseilliers” to “Groseillers” (Radisson and
-Groseillers)
+p. 332: changed “Groseillers” to “Groseilliers” (Radisson and
+Groseilliers returned to Quebec)
+
+p. 395: changed “Groseillers” to “Groseilliers” (Groseilliers, 39.)
